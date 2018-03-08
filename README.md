@@ -1,14 +1,14 @@
 
-# IIC2562 - Taller de Programación II
-## 2017-2
-Bienvenidos a la página de apoyo del curso Taller de Programación II.
+# IIC2552 - Taller de Programación Avanzada
+## 2018-1
+Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 
 ## Material de Apoyo
 
 ### General
-* (RECOMENDADO) Competitive Programmer's Handbook: https://www.cses.fi/book.pdf
-* (RECOMENDADO) Competitive Programming 2: https://www.scribd.com/doc/155208844/Competitive-Programming-2
-* (RECOMENDADO) Tushar Roy - Coding Made Simple: https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw
+* Competitive Programmer's Handbook: https://www.cses.fi/book.pdf
+* Competitive Programming 2: https://www.scribd.com/doc/155208844/Competitive-Programming-2
+* Tushar Roy - Coding Made Simple: https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw
 * Techie Delight: Coding made easy: http://www.techiedelight.com/
 * Sitio web del Taller de la U. de Chile: http://progcomp.cl/taller
 * Google Doc con muchos códigos (C++): https://docs.google.com/document/d/1rcex_saP4tExbbU62qGUjR3eenxOh-50i9Y45WtHkc4/edit
@@ -26,7 +26,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación II.
   * Chocoblog: https://chococontest.wordpress.com/
 * Google Sheet con soluciones de las últimas regionales (work in progress): https://docs.google.com/spreadsheets/d/1F8aBV83xKPVFfq_A0EKhCa8qbjf0gKKg8puQF-rbonQ/
 
-### Para aprender C++ (si es que quieren)
+### Para aprender C++ (si es que quieren - MUY RECOMENDADO)
  * LearnCpp: http://www.learncpp.com/
  * Intro a C++: https://youtu.be/pqWsOsfGKA0
  * Intro a la Programación Competitiva en C++: https://youtu.be/zTUJFG34Tyw
@@ -215,4 +215,4 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
-https://docs.google.com/spreadsheets/d/1Z8SyeOCmRtai5iEXaqKzLO6d6WHhkOv1DI8JJ02iVrM/pubhtml
+https://docs.google.com/spreadsheets/d/12meuZQZbcV_yIMSi9UCcieX-eC2tWKEZQkWKtaQSUF0/edit?usp=sharing
