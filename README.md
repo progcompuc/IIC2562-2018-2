@@ -211,7 +211,10 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
 * SPOJ: http://www.spoj.com/
 
 ## Contests
-* Taller 1: PENDING
+* Taller 1: https://a2oj.com/contest?ID=35796
+  * Disponibilidad: 09/03/2018 - 23/03/2018 (2 semanas)
+  * Jueces a utilizar: Codeforces, URI, Live Archive  
+  
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
