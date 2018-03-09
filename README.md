@@ -214,7 +214,7 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
 * Taller 1: https://a2oj.com/contest?ID=35796
   * Disponibilidad: 09/03/2018 - 23/03/2018 (2 semanas)
   * Jueces a utilizar: Codeforces, URI, Live Archive
-  * Soluciones de Ejemplos:
+  * Soluciones de ejemplo:
     * Buggy ICPC: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/8189_BuggyICPC.cpp
   
 __________________________________________________
