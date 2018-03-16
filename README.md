@@ -222,7 +222,7 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
 * Taller 2: https://a2oj.com/edit?ID=35889
   * Disponibilidad: 16/03/2018 - 30/03/2018 (2 semanas)
   * Jueces a utilizar: Codeforces, URI, Live Archive
-  * Hints: brut force, implementation, math, number theory, DP, LIS (longest increasing subsequence), HIV (heaviest increasing subsequence), 
+  * Hints: brute force, implementation, math, number theory, DP, LIS (longest increasing subsequence), HIV (heaviest increasing subsequence)
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
