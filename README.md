@@ -220,7 +220,7 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
     * Fundraising: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/Fundraising.cpp
     
 * Taller 2: https://a2oj.com/contest?ID=35889
-  * Disponibilidad: 16/03/2018 - 30/03/2018 (2 semanas)
+  * Disponibilidad: 16/03/2018 - 06/04/2018 (3 semanas)
   * Jueces a utilizar: Codeforces, URI, Live Archive
   * Hints: brute force, implementation, math, number theory, DP, LIS (longest increasing subsequence), HIV (heaviest increasing subsequence)
 __________________________________________________
