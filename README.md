@@ -214,9 +214,15 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
 * Taller 1: https://a2oj.com/contest?ID=35796
   * Disponibilidad: 09/03/2018 - 23/03/2018 (2 semanas)
   * Jueces a utilizar: Codeforces, URI, Live Archive
+  * Hints: implementation, math, recursion, backtracking, pruning, DP, HIV (heaviest increasing subsequence), Fenwick Tree
   * Soluciones de ejemplo:
     * Buggy ICPC: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/8189_BuggyICPC.cpp
-  
+    * Fundraising: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/Fundraising.cpp
+    
+* Taller 2: https://a2oj.com/edit?ID=35889
+  * Disponibilidad: 16/03/2018 - 30/03/2018 (2 semanas)
+  * Jueces a utilizar: Codeforces, URI, Live Archive
+  * Hints: brut force, implementation, math, number theory, DP, LIS (longest increasing subsequence), HIV (heaviest increasing subsequence), 
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
