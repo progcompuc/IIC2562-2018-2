@@ -223,6 +223,8 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * Disponibilidad: 16/03/2018 - 06/04/2018 (3 semanas)
   * Jueces a utilizar: Codeforces, URI, Live Archive
   * Hints: brute force, implementation, math, number theory, DP, LIS (longest increasing subsequence), HIV (heaviest increasing subsequence)
+  * Soluciones de ejemplo:
+    * T-primes: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/230B_T-primes.cpp
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
