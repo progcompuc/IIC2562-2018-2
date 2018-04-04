@@ -230,6 +230,12 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
 * Taller 3: https://a2oj.com/contest?ID=36030
   * Disponibilidad: 28/03/2018 - 20/04/2018 (3 semanas y fracción)
   * Jueces a utilizar: Codeforces, URI
+  * Soluciones de ejemplo:
+    * Keep it Energized: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7213_KeepItEnergized.cpp
+    * Fence the Vegetables: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6826_FenceTheVegetables.cpp
+    * Journey Through The Kingdom: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JourneyThroughTheKingdom.cpp
+    * Electrical Pollution: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ElectricalPollution.cpp
+    * Dividing the Names: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6824_DividingTheNames.cpp
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
