@@ -237,6 +237,11 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
     * Journey Through The Kingdom: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JourneyThroughTheKingdom.cpp
     * Electrical Pollution: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ElectricalPollution.cpp
     * Dividing the Names: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6824_DividingTheNames.cpp
+    
+* Taller 4: https://a2oj.com/contest?ID=36242
+  * Disponibilidad: 13/04/2018 - 27/04/2018 (2 semanas)
+  * Jueces a utilizar: Codeforces, URI
+    
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
