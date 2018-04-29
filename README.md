@@ -241,12 +241,16 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
 * Taller 4: https://a2oj.com/contest?ID=36242
   * Disponibilidad: 13/04/2018 - 27/04/2018 (2 semanas)
   * Jueces a utilizar: Codeforces, URI
+  * Soluciones de Ejemplo:
+    * HexStatistics: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/HexStatistics.cpp
   
 * Taller 5: https://a2oj.com/contest?ID=36321
   * Disponibilidad: 20/04/2018 - 04/05/2018 (2 semanas)
   * Jueces a utilizar: Codeforces, URI, Live Archive
   * Soluciones de ejemplo:
     * Leaders: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/97E_Leaders.cpp
+    * HexStatistics: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/HexStatistics.cpp
+  
 
 __________________________________________________
 
