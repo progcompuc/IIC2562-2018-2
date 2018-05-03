@@ -102,10 +102,15 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
   * https://www.youtube.com/watch?v=ImMnYq2zP4Y
   * https://www.youtube.com/watch?v=zaBhtODEL0w
 * Flood Fill: https://en.wikipedia.org/wiki/Flood_fill
-* Articulation Point and Bridge/Cut Edges: 
-  * https://www.youtube.com/watch?v=zxa4ZXnbMVw
-  * https://www.youtube.com/watch?v=2kREIkF9UAs
-  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/articulation_points_cut_edges.cpp
+* Articulation Points (aka Cut Vertices), Bridges (aka Cut Edges) and Biconnected Components (aka Blocks): 
+  * Graph Theory: 53. Cut-Vertices: https://www.youtube.com/watch?v=BxAgmaLWaq4
+  * Graph Theory: 55. Bridges and Blocks: https://www.youtube.com/watch?v=iGsxKUzW3cs
+  * Menger's Theorem: https://www.youtube.com/watch?v=dUAeleBMRCQ
+  * Articulation Points Graph Algorithm: https://www.youtube.com/watch?v=2kREIkF9UAs
+  * http://web.iitd.ac.in/~bspanda/biconnectedMTL776.pdf
+  * https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/tutorial/
+  * https://www.hackerearth.com/practice/algorithms/graphs/biconnected-components/tutorial/
+  * Código de ejemplo: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/articulation-points%2Ccut-edges%2Cbiconnected-components.cpp
 * Diameter of a Tree: http://cs.stackexchange.com/questions/22855/algorithm-to-find-diameter-of-a-tree-using-bfs-dfs-why-does-it-work
 * Dijkstra:
   * https://www.youtube.com/watch?v=gdmfOwyQlcI
