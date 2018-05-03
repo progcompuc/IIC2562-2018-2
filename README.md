@@ -106,6 +106,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
   * Graph Theory: 53. Cut-Vertices: https://www.youtube.com/watch?v=BxAgmaLWaq4
   * Graph Theory: 55. Bridges and Blocks: https://www.youtube.com/watch?v=iGsxKUzW3cs
   * Menger's Theorem: https://www.youtube.com/watch?v=dUAeleBMRCQ
+    * https://www.quora.com/How-can-I-prove-without-using-Mengers-theorem-that-any-two-vertices-of-a-2-connected-graph-lie-on-a-common-cycle
   * Articulation Points Graph Algorithm: https://www.youtube.com/watch?v=2kREIkF9UAs
   * http://web.iitd.ac.in/~bspanda/biconnectedMTL776.pdf
   * https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/tutorial/
