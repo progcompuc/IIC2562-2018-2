@@ -136,11 +136,14 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
     * https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/
   * Example Code of Both Methods:
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/LCA.cpp
-    
 * Level Ancestor:
   * https://en.wikipedia.org/wiki/Level_ancestor_problem
   * https://www.quora.com/Why-does-storing-log-N-pointers-work-in-the-jump-pointer-solution-of-the-level-ancestor-problem
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/LA.cpp
+* Heavy-Light Decomposition:
+  * https://blog.anudeep2011.com/heavy-light-decomposition/
+  * https://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/
+  * http://codeforces.com/blog/entry/22072
 * Max Flow:
   * Ford-Fulkerson Algorithm:
      * https://www.youtube.com/watch?v=Tl90tNtKvxs
