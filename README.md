@@ -125,9 +125,18 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 * Topological Sort:
   * https://www.youtube.com/watch?v=ddTC4Zovtbc
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/TopoSort.cpp
-* Lowest Common Ancestor:
-  * https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/
-  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/LCA.cpp
+* Lowest Common Ancestor (LCA):
+  * General Overview of Methods:
+    * http://codeforces.com/blog/entry/16221 (skip to the LCA part)
+  * (RECOMMENDED) Method 1: Binary Lifting Method (aka jump pointers: https://en.wikipedia.org/wiki/Level_ancestor_problem#Jump_pointer_algorithm):
+    * http://codeforces.com/blog/entry/22325
+      * Note: as the post says, this method is very handy as it can be also used to compute querys over paths in Trees
+    * https://www.youtube.com/watch?v=kOfa6t8WnbI
+  * Method 2: Euler Tour + Range Minimun Query:
+    * https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/
+  * Example Code of Both Methods:
+    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/LCA.cpp
+    
 * Level Ancestor:
   * https://en.wikipedia.org/wiki/Level_ancestor_problem
   * https://www.quora.com/Why-does-storing-log-N-pointers-work-in-the-jump-pointer-solution-of-the-level-ancestor-problem
