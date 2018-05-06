@@ -273,7 +273,15 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
     
 * Taller 6: https://a2oj.com/contest?ID=36417
   * Disponibilidad: 04/05/2018 - 18/05/2018 (2 semanas)
-  * Jueces a utilizar: Codeforces, URI, Timus  
+  * Jueces a utilizar: Codeforces, URI, Timus
+  * Soluciones de Ejemplo:
+    * Even Distribution: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6825_EvenDistribution.cpp
+    * Exposing Corruption: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7207_ExposingCorruption.cpp
+    * Painting Fence: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/448C_PaintingFence.cpp
+    * New Year Tree: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/379F_NewYearTree.cpp
+    * Tree2: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/acm.timus.ru/1752_Tree2.cpp
+    * Electrical Pollution: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ElectricalPollution.cpp
+    * Journey Through The Kingdom: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JourneyThroughTheKingdom.cpp
 
 __________________________________________________
 
