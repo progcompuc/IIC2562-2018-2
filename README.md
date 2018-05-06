@@ -147,6 +147,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 * Max Flow:
   * Ford-Fulkerson Algorithm:
      * https://www.youtube.com/watch?v=Tl90tNtKvxs
+     * https://www.youtube.com/watch?v=XPpmzulEmjA
      * https://www.youtube.com/watch?v=MczX0SM3I84
      * https://www.youtube.com/watch?v=GiN3jRdgxU4
   * Dinic Algorithm:
