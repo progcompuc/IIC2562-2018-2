@@ -275,6 +275,7 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * Disponibilidad: 04/05/2018 - 18/05/2018 (2 semanas)
   * Jueces a utilizar: Codeforces, URI, Timus
   * Soluciones de Ejemplo:
+    * Join two kingdoms: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JoinTwoKingdoms.cpp
     * Even Distribution: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6825_EvenDistribution.cpp
     * Exposing Corruption: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7207_ExposingCorruption.cpp
     * Painting Fence: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/448C_PaintingFence.cpp
