@@ -119,9 +119,16 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/Dijkstra.cpp
 * Minimum Spanning Tree:
   * Kruskal's Algorithm:
+    * https://www.youtube.com/watch?v=71UQH7Pr9kU
     * https://www.youtube.com/watch?v=fAuF0EuZVCk
-    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/Kruskal.cpp
-  * Prim's Algorithm: https://www.youtube.com/watch?v=oP2-8ysT3QQ
+  * Prim's Algorithm:
+    * https://www.youtube.com/watch?v=cplfcGZmX7I
+    * https://www.youtube.com/watch?v=oP2-8ysT3QQ
+  * Correcteness Proofs:
+    * Proof of Cut Property: https://www.youtube.com/watch?v=P7K7mG8QDVM
+    * Proof of Prim's MST algorithm using cut property: https://www.youtube.com/watch?v=UfhUr5QzfiI
+    * Correctness of Kruskal's Algorithm: https://www.youtube.com/watch?v=S9PIItOUyzA
+  * Example Code: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/MinimumSpanningTree.cpp    
 * Topological Sort:
   * https://www.youtube.com/watch?v=ddTC4Zovtbc
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/TopoSort.cpp
