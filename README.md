@@ -6,6 +6,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 ## Material de Apoyo
 
 ### General
+* Algorithms Live!: https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w/
 * Competitive Programmer's Handbook: https://www.cses.fi/book.pdf
 * Competitive Programming 2: https://www.scribd.com/doc/155208844/Competitive-Programming-2
 * Tushar Roy - Coding Made Simple: https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw
@@ -135,12 +136,14 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 * Lowest Common Ancestor (LCA):
   * General Overview of Methods:
     * http://codeforces.com/blog/entry/16221 (skip to the LCA part)
-  * (RECOMMENDED) Method 1: Binary Lifting Method (aka jump pointers: https://en.wikipedia.org/wiki/Level_ancestor_problem#Jump_pointer_algorithm):
+  * Sparse Tables and LCA: https://www.youtube.com/watch?v=EKcQt-74bNw
+  * Method 1 (RECOMMENDED): Binary Lifting Method (aka jump pointers: https://en.wikipedia.org/wiki/Level_ancestor_problem#Jump_pointer_algorithm):
     * http://codeforces.com/blog/entry/22325
       * Note: as the post says, this method is very handy as it can be also used to compute querys over paths in Trees
     * https://www.youtube.com/watch?v=kOfa6t8WnbI
   * Method 2: Euler Tour + Range Minimun Query:
     * https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/
+    * Sparse Table Algorithm Range Minimum Query: https://www.youtube.com/watch?v=c5O7E_PDO4U
   * Example Code of Both Methods:
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/LCA.cpp
 * Level Ancestor:
