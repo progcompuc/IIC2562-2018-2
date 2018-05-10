@@ -292,6 +292,7 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
     * Painting Fence: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/448C_PaintingFence.cpp
     * New Year Tree: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/379F_NewYearTree.cpp
     * Tree2: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/acm.timus.ru/1752_Tree2.cpp
+    * Minimum Spanning Tree for each edge: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/609E_MinimumSpanningTreeForEachEdge.cpp
     * Electrical Pollution: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ElectricalPollution.cpp
     * Journey Through The Kingdom: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JourneyThroughTheKingdom.cpp
 
