@@ -296,6 +296,10 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
     * Electrical Pollution: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ElectricalPollution.cpp
     * Journey Through The Kingdom: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JourneyThroughTheKingdom.cpp
 
+* Taller 7: https://a2oj.com/contest?ID=36453
+  * Disponibilidad: 18/05/2018 - 01/06/2018 (2 semanas)
+  * Jueces a utilizar: Codeforces, URI, Live Archive, Timus
+
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
