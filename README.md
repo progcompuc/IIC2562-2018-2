@@ -299,6 +299,9 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
 * Taller 7: https://a2oj.com/contest?ID=36453
   * Disponibilidad: 18/05/2018 - 01/06/2018 (2 semanas)
   * Jueces a utilizar: Codeforces, URI, Live Archive, Timus
+  * Soluciones de Ejemplo:
+    * New Year Tree: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/379F_NewYearTree.cpp
+    * Tree2: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/acm.timus.ru/1752_Tree2.cpp
 
 __________________________________________________
 
