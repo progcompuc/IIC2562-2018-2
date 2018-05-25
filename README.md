@@ -302,6 +302,10 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * Soluciones de Ejemplo:
     * New Year Tree: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/379F_NewYearTree.cpp
     * Tree2: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/acm.timus.ru/1752_Tree2.cpp
+    
+* Taller 8: https://a2oj.com/contest?ID=36574
+  * Disponibilidad: 25/05/2018 - 15/06/2018 (3 semanas)
+  * Jueces a utilizar: Codeforces, URI, Live Archive, UVA, SPOJ
 
 __________________________________________________
 
