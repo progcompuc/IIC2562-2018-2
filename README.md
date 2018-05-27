@@ -300,8 +300,13 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
   * Disponibilidad: 18/05/2018 - 01/06/2018 (2 semanas)
   * Jueces a utilizar: Codeforces, URI, Live Archive, Timus
   * Soluciones de Ejemplo:
+    * Keep it Energized: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7213_KeepItEnergized_v2.cpp (háganlo con Dijkstra, la misma idea se aplica a "Journey Through the Kingdom")
+    * Journey Through The Kingdom: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JourneyThroughTheKingdom.cpp
     * New Year Tree: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/379F_NewYearTree.cpp
     * Tree2: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/acm.timus.ru/1752_Tree2.cpp
+    * Necklace: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4271_Necklace.cpp
+    * Leaders: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/97E_Leaders.cpp
+    * Even Distribution: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6825_EvenDistribution.cpp    
     
 * Taller 8: https://a2oj.com/contest?ID=36574
   * Disponibilidad: 25/05/2018 - 15/06/2018 (3 semanas)
