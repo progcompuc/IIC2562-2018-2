@@ -26,6 +26,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
   * Blog CaloventorEnDos: http://caloventorendos.blogspot.cl
   * Chocoblog: https://chococontest.wordpress.com/
 * Google Sheet con soluciones de las últimas regionales (work in progress): https://docs.google.com/spreadsheets/d/1F8aBV83xKPVFfq_A0EKhCa8qbjf0gKKg8puQF-rbonQ/
+* Inputs y outputs oficiales de regionales latam pasadas: http://maratona.ime.usp.br/antigas18.html
 
 ### Para aprender C++ (si es que quieren - MUY RECOMENDADO)
  * LearnCpp: http://www.learncpp.com/
