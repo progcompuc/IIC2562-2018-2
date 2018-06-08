@@ -312,6 +312,10 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
 * Taller 8: https://a2oj.com/contest?ID=36574
   * Disponibilidad: 25/05/2018 - 15/06/2018 (3 semanas)
   * Jueces a utilizar: Codeforces, URI, Live Archive, UVA, SPOJ
+  
+* Taller 9: https://a2oj.com/contest?ID=36677
+  * Disponibilidad: 08/06/2018 - 02/07/2018 (3+ semanas)
+  * Jueces a utilizar: Codeforces, URI, Live Archive, SPOJ
 
 __________________________________________________
 
