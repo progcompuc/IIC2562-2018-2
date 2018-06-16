@@ -161,13 +161,13 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
      * https://www.youtube.com/watch?v=XPpmzulEmjA
      * https://www.youtube.com/watch?v=MczX0SM3I84
      * https://www.youtube.com/watch?v=GiN3jRdgxU4
-  * Dinic Algorithm:
+  * Dinic Algorithm (RECOMENDADO):
      * https://www.youtube.com/watch?v=uM06jHdIC70
      * http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15451-f14/www/lectures/lec11/dinic.pdf
      * http://theory.stanford.edu/~tim/w16/l/l2.pdf
      * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/Dinic.cpp
-  * Application:
-     * Ejemplos de problemas usando flujo: https://www.youtube.com/watch?v=nKcVc8XkFSA
+  * Casos de uso:
+     * (MUY RECOMENDADO) Ejemplos de problemas usando flujo: https://www.youtube.com/watch?v=nKcVc8XkFSA
      * Maximum Bipartite Matching: http://www.geeksforgeeks.org/maximum-bipartite-matching/
 
 ### Strings:
