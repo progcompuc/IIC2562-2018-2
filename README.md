@@ -316,6 +316,7 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
      * Dinosaur Menace: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/DINOSM_DinosaurMenace.cpp
      * Attacking Rooks: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/AttackingRooks.cpp
      * Kill The Werewolf: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/KillTheWerewolf.cpp
+     * Keep it Covered: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/8198_KeepItCovered.cpp
   
 * Taller 9: https://a2oj.com/contest?ID=36677
   * Disponibilidad: 08/06/2018 - 02/07/2018 (3+ semanas)
