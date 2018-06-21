@@ -34,14 +34,14 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 * Inputs y outputs oficiales de regionales latam pasadas: http://maratona.ime.usp.br/antigas18.html
 
 ### Para aprender C++ (MUY RECOMENDADO)
+ * ¿Qué es mejor para leer input / imprimir output? cin/cout vs printf/scanf: http://www.cplusplus.com/forum/beginner/34165/
  * LearnCpp: http://www.learncpp.com/
  * Intro a C++: https://youtu.be/pqWsOsfGKA0
  * Intro a la Programación Competitiva en C++: https://youtu.be/zTUJFG34Tyw
  * Estructuras básicas en C++: https://youtu.be/OldL5e5eGmY
  * C++ Programming Video Tutorials For Beginners [ Complete Series ]: https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C
  * C++ Tutorial (SOLO LEARN: EVERYONE CAN CODE): https://www.sololearn.com/Course/CPlusPlus/
- * C++ Cheat Sheet de Pablo Messina: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/c%2B%2B_cheat_sheet.cpp
- * cin/cout vs printf/scanf: http://www.cplusplus.com/forum/beginner/34165/
+ * C++ Cheat Sheet de Pablo Messina: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/c%2B%2B_cheat_sheet.cpp 
  * Instalando y corriendo C++:
    * Windows:
      * http://www.mingw.org/Welcome_to_MinGW_org
