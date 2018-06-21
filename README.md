@@ -6,20 +6,25 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 ## Material de Apoyo
 
 ### General
-* Algorithms Live!: https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w/
-* Competitive Programmer's Handbook: https://www.cses.fi/book.pdf
-* Competitive Programming 2: https://www.scribd.com/doc/155208844/Competitive-Programming-2
-* Tushar Roy - Coding Made Simple: https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw
-* Techie Delight: Coding made easy: http://www.techiedelight.com/
-* Sitio web del Taller de la U. de Chile: http://progcomp.cl/taller
-* Google Doc con muchos códigos (C++): https://docs.google.com/document/d/1rcex_saP4tExbbU62qGUjR3eenxOh-50i9Y45WtHkc4/edit
-* Google Doc con Apuntes de Robinson Castro et al (C++): https://docs.google.com/document/d/1pan53PU9_PIrPPVyNrbfXIAU-B6YnIaSBcB9lP9j0jE/edit
-* Repo de Apuntes de Pablo Messina (C++): https://github.com/PabloMessina/Competitive-Programming-Material
-* Repo de Apuntes del team Caloventor en Dos (C++): https://github.com/mvpossum/eldiego
-* Programación Competitiva CL:  https://www.youtube.com/channel/UCmVg7YyMS8H-65WCmkVHB9g/feed
-* Material Campamento 2015 progcomp.cl: http://campamento2015.progcomp.cl/material
-* Material Campamento 2016 progcomp.cl: http://campamento2016.progcomp.cl/material
-* Material Campamento 2017 progcomp.cl: http://campamento2017.progcomp.cl/material
+* Canales de Youtube con muchas explicaciones:
+  * Algorithms Live!: https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w/
+  * Tushar Roy - Coding Made Simple: https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw
+  * Programación Competitiva CL:  https://www.youtube.com/channel/UCmVg7YyMS8H-65WCmkVHB9g/feed
+* Repositorios con muchos códigos de ejemplo (implementaciones de algoritmos y estructuras de datos típicos):
+  * Google Doc con muchos códigos (C++): https://docs.google.com/document/d/1rcex_saP4tExbbU62qGUjR3eenxOh-50i9Y45WtHkc4/edit
+  * Google Doc con Apuntes de Robinson Castro et al (C++): https://docs.google.com/document/d/1pan53PU9_PIrPPVyNrbfXIAU-B6YnIaSBcB9lP9j0jE/edit
+  * Repo de Apuntes de Pablo Messina (C++): https://github.com/PabloMessina/Competitive-Programming-Material
+  * Repo de Apuntes del team Caloventor en Dos (C++): https://github.com/mvpossum/eldiego
+* Otras páginas con links a muchos recursos y material de estudio:
+  * GeeksForGeeks: HOW TO PREPARE FOR ACM ICPC: https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/
+  * Techie Delight: Coding made easy: http://www.techiedelight.com/
+  * Sitio web del Taller de la U. de Chile: http://progcomp.cl/taller
+  * Material Campamento 2015 progcomp.cl: http://campamento2015.progcomp.cl/material
+  * Material Campamento 2016 progcomp.cl: http://campamento2016.progcomp.cl/material
+  * Material Campamento 2017 progcomp.cl: http://campamento2017.progcomp.cl/material
+* Libros con harto material de programación competitiva:
+  * Competitive Programmer's Handbook: https://www.cses.fi/book.pdf
+  * Competitive Programming 2: https://www.scribd.com/doc/155208844/Competitive-Programming-2
 
 ### Soluciones Regionales Latinoamericanas
 * Blogs con explicaciones:
