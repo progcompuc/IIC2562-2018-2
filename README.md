@@ -331,6 +331,7 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
     * Xenia and Bit Operations: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/339D_XeniaAndBitOperations.cpp
     * Olympic Games: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Red%20de%20Programaci%C3%B3n%20Competitiva/2016-Competencia-11/J_OlympicGames.cpp
     * The Art of Dealing with ATM: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/524C_TheArtOfDealingWithATMs.cpp
+    * Looking for Owls: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/350D_LookingForOwls.cpp
     * Counting Ones: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/CountingOnes.cpp    
     * Counting Self-Rotating Subsets: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/CountingSelfRotatingSubsets_v1.cpp
     * Jupiter Attacks!: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JupiterAttacks.cpp
