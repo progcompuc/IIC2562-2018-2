@@ -326,6 +326,21 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
 * Taller 9: https://a2oj.com/contest?ID=36677
   * Disponibilidad: 08/06/2018 - 02/07/2018 (3+ semanas)
   * Jueces a utilizar: Codeforces, URI, Live Archive, SPOJ
+  * Soluciones de Ejemplo:
+    * Divisors: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/EC_DIVS_Divisors.cpp
+    * Xenia and Bit Operations: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/339D_XeniaAndBitOperations.cpp
+    * Olympic Games: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Red%20de%20Programaci%C3%B3n%20Competitiva/2016-Competencia-11/J_OlympicGames.cpp
+    * The Art of Dealing with ATM: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/524C_TheArtOfDealingWithATMs.cpp
+    * Counting Ones: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/CountingOnes.cpp    
+    * Counting Self-Rotating Subsets: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/CountingSelfRotatingSubsets_v1.cpp
+    * Jupiter Attacks!: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JupiterAttacks.cpp
+    * Vladik And Entertaining Flags: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/811E_VladikAndEntertainingFlags.cpp
+    * Last Digit: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4008_LastDigit.cpp
+    * Cvjetici: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/CVJETICI_Cvjetici.cpp
+    * Just in Time: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JustInTime.cpp
+    * YAPTCHA: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4382_YAPTCHA.cpp
+    * Arranging Tiles: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ArrangingTiles.cpp
+    * Keep it Covered: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/8198_KeepItCovered.cpp
 
 __________________________________________________
 
