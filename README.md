@@ -343,8 +343,8 @@ A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir cr
     * Arranging Tiles: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ArrangingTiles.cpp
     * Keep it Covered: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/8198_KeepItCovered.cpp
 * Taller Repechaje: https://a2oj.com/contest?ID=36906
- * Disponiblidad: 01/07/2018 - 11/07/2018 (10 días)
- * Jueces a utilizar: Live Archive
+  * Disponiblidad: 01/07/2018 - 11/07/2018 (10 días)
+  * Jueces a utilizar: Live Archive
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
