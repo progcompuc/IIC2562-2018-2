@@ -221,9 +221,9 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
     * basado en: https://www.geeksforgeeks.org/orientation-3-ordered-points/
   * Detectar intersección de rectángulos
   * Detectar intersección de segmentos
-    * basado on: https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/
+    * basado en: https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/
   * Distancia punto - segmento
-    * https://stackoverflow.com/questions/849211/shortest-distance-between-a-point-and-a-line-segment
+    * basado en: https://stackoverflow.com/questions/849211/shortest-distance-between-a-point-and-a-line-segment
   * Distancia punto - recta
   * Hashing de ecuación de recta a partir de 2 puntos
 * Convex Hull:
