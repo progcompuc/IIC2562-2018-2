@@ -237,11 +237,21 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
   * http://stackoverflow.com/questions/451426/how-do-i-calculate-the-area-of-a-2d-polygon
   * http://math.blogoverflow.com/2014/06/04/greens-theorem-and-area-of-polygons/
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/PolygonArea.cpp
+* Sweep Line y Radial Sweep Line:
+  * https://en.wikipedia.org/wiki/Sweep_line_algorithm
+  * http://codeforces.com/blog/entry/20377
+  * https://apps.topcoder.com/forums/?module=Thread&threadID=684537&start=0&mc=6
 * Detectar si un punto está dentro de un polígono:
   * http://geomalgorithms.com/a03-_inclusion.html
   * https://en.wikipedia.org/wiki/Point_in_polygon
   * Código ejemplo: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/PointInPolygon.cpp
   * Point in Convex Polygon: http://stackoverflow.com/questions/1119627/how-to-test-if-a-point-is-inside-of-a-convex-polygon-in-2d-integer-coordinates
+* Dualidad Línea Punto:
+  * http://www.cs.tulane.edu/~carola/teaching/cmps6640/spring16/slides/Point-Line%20Duality.pdf
+  * http://students.cec.wustl.edu/~tdeck/duality/
+* Convex Hull Trick:
+  * https://wcipeg.com/wiki/Convex_hull_trick
+  * https://stackoverflow.com/questions/17834699/what-is-convex-hull-trick-exactly
 
 
 _______________________________________________
