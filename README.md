@@ -214,22 +214,34 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_binomial_coefficient.cpp
 
 ### Geometry:
+* Códigos varios de geometría 2D: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/Geometry2DUtils.cpp. Incluye:
+  * Ejemplo de un struct Point
+  * Calcular ángulo (en radianes) de un vector usando atan2()
+  * Orientación de un punto respecto a un rayo (left, collinear o right)
+    * basado en: https://www.geeksforgeeks.org/orientation-3-ordered-points/
+  * Detectar intersección de rectángulos
+  * Detectar intersección de segmentos
+    * basado on: https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/
+  * Distancia punto - segmento
+    * https://stackoverflow.com/questions/849211/shortest-distance-between-a-point-and-a-line-segment
+  * Distancia punto - recta
+  * Hashing de ecuación de recta a partir de 2 puntos
 * Convex Hull:
   * Graham Scan Algorithm: https://www.youtube.com/watch?v=wRTGDig3jx8
   * Monotone Chain Algorithm: https://www.youtube.com/watch?v=A4uWWnzTplM
   * Graham Scan vs Monotone Chain: http://geomalgorithms.com/a10-_hull-1.html
-  * https://en.wikibooks.org/wiki/Algorithm_Implementation/Geometry/Convex_hull/Monotone_chain
-  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/ConvexHull.cpp
-* Point in Polygon:
-  * http://geomalgorithms.com/a03-_inclusion.html
-  * https://en.wikipedia.org/wiki/Point_in_polygon
-  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/PointInPolygon.cpp
-  * Point in Convex Polygon: http://stackoverflow.com/questions/1119627/how-to-test-if-a-point-is-inside-of-a-convex-polygon-in-2d-integer-coordinates
-* Area of Simple Polygon:
+  * Códigos de ejemplo:
+    * https://en.wikibooks.org/wiki/Algorithm_Implementation/Geometry/Convex_hull/Monotone_chain
+    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/ConvexHull.cpp
+* Área de un polígono simple:
   * http://stackoverflow.com/questions/451426/how-do-i-calculate-the-area-of-a-2d-polygon
   * http://math.blogoverflow.com/2014/06/04/greens-theorem-and-area-of-polygons/
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/PolygonArea.cpp
-* Geometry 2D Utility Code: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/Geometry2DUtils.cpp
+* Detectar si un punto está dentro de un polígono:
+  * http://geomalgorithms.com/a03-_inclusion.html
+  * https://en.wikipedia.org/wiki/Point_in_polygon
+  * Código ejemplo: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/PointInPolygon.cpp
+  * Point in Convex Polygon: http://stackoverflow.com/questions/1119627/how-to-test-if-a-point-is-inside-of-a-convex-polygon-in-2d-integer-coordinates
 
 
 _______________________________________________
