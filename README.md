@@ -216,16 +216,30 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 ### Geometry:
 * Códigos varios de geometría 2D: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/Geometry2DUtils.cpp. Incluye:
   * Ejemplo de un struct Point
-  * Calcular ángulo (en radianes) de un vector usando atan2()
   * Orientación de un punto respecto a un rayo (left, collinear o right)
     * basado en: https://www.geeksforgeeks.org/orientation-3-ordered-points/
   * Detectar intersección de rectángulos
   * Detectar intersección de segmentos
     * basado en: https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/
+  * Detectar intersección de círculos
   * Distancia punto - segmento
     * basado en: https://stackoverflow.com/questions/849211/shortest-distance-between-a-point-and-a-line-segment
   * Distancia punto - recta
   * Hashing de ecuación de recta a partir de 2 puntos
+* Trigonometría: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/Trigonometry.cpp. Incluye:
+  * Cálculo del ángulo de un vector 2D (medido ccw con respecto x+) usando atan2(y,x)
+  * Implementación del teorema del coseno para cálcular ángulos internos de triángulos
+* Cálculo de Áreas:
+  * Teorema de Green (aplicado al caso particular de calcular áreas):
+    * lectura: https://mathinsight.org/greens_theorem_find_area
+    * videos:
+        * Green's Theorem: https://www.youtube.com/watch?v=a_zdFvYXX_c
+        * 78 - Finding area with Green's theorem: https://www.youtube.com/watch?v=42vEvHpXYP8
+        * Green's Theorem: area under an arch | MIT 18.02SC Multivariable Calculus, Fall 2010: https://www.youtube.com/watch?v=KXof0q88xbg
+  * Área de un polígono simple:
+    * http://stackoverflow.com/questions/451426/how-do-i-calculate-the-area-of-a-2d-polygon
+    * http://math.blogoverflow.com/2014/06/04/greens-theorem-and-area-of-polygons/
+    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/PolygonArea.cpp
 * Convex Hull:
   * Graham Scan Algorithm: https://www.youtube.com/watch?v=wRTGDig3jx8
   * Monotone Chain Algorithm: https://www.youtube.com/watch?v=A4uWWnzTplM
@@ -233,10 +247,6 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
   * Códigos de ejemplo:
     * https://en.wikibooks.org/wiki/Algorithm_Implementation/Geometry/Convex_hull/Monotone_chain
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/ConvexHull.cpp
-* Área de un polígono simple:
-  * http://stackoverflow.com/questions/451426/how-do-i-calculate-the-area-of-a-2d-polygon
-  * http://math.blogoverflow.com/2014/06/04/greens-theorem-and-area-of-polygons/
-  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/PolygonArea.cpp
 * Sweep Line y Radial Sweep Line:
   * https://en.wikipedia.org/wiki/Sweep_line_algorithm
   * http://codeforces.com/blog/entry/20377
