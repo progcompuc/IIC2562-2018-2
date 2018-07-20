@@ -249,6 +249,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/ConvexHull.cpp
 * Sweep Line y Radial Sweep Line:
   * https://en.wikipedia.org/wiki/Sweep_line_algorithm
+  * https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/
   * http://codeforces.com/blog/entry/20377
   * https://apps.topcoder.com/forums/?module=Thread&threadID=684537&start=0&mc=6
 * Detectar si un punto está dentro de un polígono:
