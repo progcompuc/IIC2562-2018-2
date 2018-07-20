@@ -216,8 +216,9 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 ### Geometry:
 * Códigos varios de geometría 2D: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/Geometry2DUtils.cpp. Incluye:
   * Ejemplo de un struct Point
-  * Orientación de un punto respecto a un rayo (left, collinear o right)
+  * Producto Cruz: Orientación de un punto respecto a un rayo (left, collinear o right)
     * basado en: https://www.geeksforgeeks.org/orientation-3-ordered-points/
+  * Ordenar segmentos disjuntos por orden de intersección respecto a un rayo usando producto cruz
   * Detectar intersección de rectángulos
   * Detectar intersección de segmentos
     * basado en: https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/
