@@ -214,6 +214,8 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_binomial_coefficient.cpp
 
 ### Geometry:
+* Video Repaso de Geometría (SÚPER BUENO):
+  * Geometría Computacional [ICPCCL 2016]: https://youtu.be/nk5ejrBWORw?list=PL-c_98SOXhxaXMMfnemh2ihniZsj57L8-
 * Códigos varios de geometría 2D: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/Geometry2DUtils.cpp. Incluye:
   * Ejemplo de un struct Point
   * Producto Cruz: Orientación de un punto respecto a un rayo (left, collinear o right)
