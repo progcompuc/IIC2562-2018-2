@@ -243,13 +243,6 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
     * http://stackoverflow.com/questions/451426/how-do-i-calculate-the-area-of-a-2d-polygon
     * http://math.blogoverflow.com/2014/06/04/greens-theorem-and-area-of-polygons/
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/PolygonArea.cpp
-* Convex Hull:
-  * Graham Scan Algorithm: https://www.youtube.com/watch?v=wRTGDig3jx8
-  * Monotone Chain Algorithm: https://www.youtube.com/watch?v=A4uWWnzTplM
-  * Graham Scan vs Monotone Chain: http://geomalgorithms.com/a10-_hull-1.html
-  * Códigos de ejemplo:
-    * https://en.wikibooks.org/wiki/Algorithm_Implementation/Geometry/Convex_hull/Monotone_chain
-    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/ConvexHull.cpp
 * Sweep Line y Radial Sweep Line:
   * https://en.wikipedia.org/wiki/Sweep_line_algorithm
   * https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/
@@ -261,12 +254,19 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
   * Código ejemplo: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/PointInPolygon.cpp
   * Point in Convex Polygon: http://stackoverflow.com/questions/1119627/how-to-test-if-a-point-is-inside-of-a-convex-polygon-in-2d-integer-coordinates
 * Dualidad Línea Punto:
-  * http://www.cs.tulane.edu/~carola/teaching/cmps6640/spring16/slides/Point-Line%20Duality.pdf
-  * http://students.cec.wustl.edu/~tdeck/duality/
+  * Buenas slides explicando dualidad: https://algo.kaust.edu.sa/Documents/cs372l13.pdf
+  * Excelente pdf con demostraciones: https://pdfs.semanticscholar.org/810c/e0c19283481567c6545bf8c0cc8a4dcb8a1f.pdf  
+  * Aplicación interactiva: http://students.cec.wustl.edu/~tdeck/duality/
+* Convex Hull:
+  * Buen video explicando Convex Hull: https://www.youtube.com/watch?v=wRTGDig3jx8
+  * Monotone Chain Algorithm (algoritmo recomendado):
+    * Video animación: https://www.youtube.com/watch?v=A4uWWnzTplM
+    * Ejemplos de implementaciones:
+      * https://en.wikibooks.org/wiki/Algorithm_Implementation/Geometry/Convex_hull/Monotone_chain
+      * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/ConvexHull.cpp
 * Convex Hull Trick:
   * https://wcipeg.com/wiki/Convex_hull_trick
   * https://stackoverflow.com/questions/17834699/what-is-convex-hull-trick-exactly
-
 
 _______________________________________________
 
