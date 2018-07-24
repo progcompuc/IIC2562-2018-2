@@ -243,8 +243,8 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
         * How to Use Green's Theorem to Find the Area of A Region: https://www.youtube.com/watch?v=w3ugdu0oFgE
         * Green's Theorem: area under an arch | MIT 18.02SC Multivariable Calculus, Fall 2010: https://www.youtube.com/watch?v=KXof0q88xbg
   * Área de un polígono simple:
-    * http://stackoverflow.com/questions/451426/how-do-i-calculate-the-area-of-a-2d-polygon
     * http://math.blogoverflow.com/2014/06/04/greens-theorem-and-area-of-polygons/
+    * http://stackoverflow.com/questions/451426/how-do-i-calculate-the-area-of-a-2d-polygon    
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/PolygonArea.cpp
 * Sweep Line y Radial Sweep Line:
   * https://en.wikipedia.org/wiki/Sweep_line_algorithm
