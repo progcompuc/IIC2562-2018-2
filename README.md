@@ -234,10 +234,13 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
   * Implementación del teorema del coseno para cálcular ángulos internos de triángulos
 * Cálculo de Áreas:
   * Teorema de Green (aplicado al caso particular de calcular áreas):
-    * lectura: https://mathinsight.org/greens_theorem_find_area
+    * lecturas:
+        * https://math.stackexchange.com/questions/199003/proving-greens-theorem-for-computing-area
+        * https://mathinsight.org/greens_theorem_find_area
     * videos:
         * Green's Theorem: https://www.youtube.com/watch?v=a_zdFvYXX_c
         * 78 - Finding area with Green's theorem: https://www.youtube.com/watch?v=42vEvHpXYP8
+        * How to Use Green's Theorem to Find the Area of A Region: https://www.youtube.com/watch?v=w3ugdu0oFgE
         * Green's Theorem: area under an arch | MIT 18.02SC Multivariable Calculus, Fall 2010: https://www.youtube.com/watch?v=KXof0q88xbg
   * Área de un polígono simple:
     * http://stackoverflow.com/questions/451426/how-do-i-calculate-the-area-of-a-2d-polygon
