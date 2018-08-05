@@ -1,7 +1,21 @@
 
-# IIC2552 - Taller de Programación Avanzada
-## 2018-1
-Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
+# IIC2562 - Taller de Programacion II
+## 2018-2
+Bienvenidos a la página de apoyo del curso Taller de Programacion II.
+
+## Instrucciones del Curso
+### Cómo se calcula la nota:
+Este curso es 100% práctico. La nota final dependerá de la resolución por parte del alumno de problemas de [programación competitiva](https://es.wikipedia.org/wiki/Usuario:Ltaravilse/Programaci%C3%B3n_competitiva). Cada cierto tiempo (una vez cada 1 o 2 semanas) se publicará un *contest* (competencia, en español). Los contests se caracterizan por lo siguiente:
+
+* Se publicarán en [codepit.io](https://www.codepit.io/), un sitio web brasileño (sí, casi todo está en portugués) que permite crear competencias utilizando problemas obtenidos de diferentes jueces online, con un scoreboard que se actualiza en tiempo real a medida que los participantes resuelven problemas. Para competir sólo basta con crearse una cuenta en [codepet.io](https://www.codepit.io/) y posteriormente unirse a los contests a medida que estos vayan siendo publicados.
+* Las competencias pueden ser ya sea **individuales** o **grupales**.
+* En el caso de competencias grupales, les está permitido armar grupos de un máximo de 3 alumn@s (codepit.io permite hacer esto fácilmente).
+* Cada contest tiene su propia **exigencia _default_**, es decir, un número **mínimo** de problemas a resolver (el cual puede ser diferente para cada contest). Sin embargo, si el alumno **asiste a clases**, se le restará 1 problema a su exigencia en el contest correspondiente, obteniéndose así una **exigencia personalizada**. Por ejemplo, si un contest tiene una duración de 3 semanas con una exigencia default de X problemas, y supongamos que 2 clases están asociadas a dicho contest, si un alumno asiste a ambas clases entonces obtendrá una exigencia personalizada de (X-2), mientra que si sólo asiste a una clase será de (X-1), y si no asiste a ninguna tendrá una exigencia de X.
+* Cada contest tendrá una duración oficial máxima (generalmente 2 o 3 semanas). El alumno (o grupo de alumnos) tendrá dicho plazo para resolver los problemas del contest. Sean N los problemas resueltos por el alumno (o grupo de alumnos) y Xp la exigencia personalizada de un alumno "p". Según la cantidad de problemas resueltos, se generan dos posibles sub-casos:
+  * Si N >= Xp, dicho alumno obtiene una asistencia de 100% en dicho contest. Además, todos los problemas adicionales resueltos (N - Xp) se sumarán a un contador llamado **excedente total**, el cual se traducirá en un bonus en su nota final.
+  * Si N < Xp, dicho alumno obtiene una asistencia de 100 * (Xp / N) % en dicho contest. Además, todos los problemas que le faltaron (Xp - N) se sumarán a un contador llamado **deuda total**. Esta deuda se puede reducir a través de 2 formas: agregando problemas a su contador de **excedente total** (punto anterior) o bien agregando problemas a su contador de **total upsolving** (punto siguiente).
+* En codepit.io, cuando el plazo de un contest se acaba, los participantes pueden seguir enviando soluciones en un modo post-competencia conocido como **upsolving**. Todos los problemas resueltos en modo upsolving se agregarán a un contador llamado **total upsolving**, el cual se traducirá en un bonus en su nota final.
+
 
 ## Material de Apoyo
 
