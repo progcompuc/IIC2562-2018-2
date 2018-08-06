@@ -45,7 +45,7 @@ La nota final se calcula calculando muchas cosas:
    * X_aumentado = X + (1 - X) * ((D - D_reducido) / D)
 * Así se puede calcular su nota:
    * Nota = 1 + 6 * X_aumentado
-* Sin embargo, luego se bajará la escala del curso, donde el alumno con mayor asistencia quedará con nota 7 (siempre y cuando la escala baje "poco" - i.e. habrá un límite para bajara la escala).
+* Sin embargo, luego se bajará la escala del curso, donde el alumno con mayor asistencia quedará con nota 7 (siempre y cuando la escala baje "poco" - i.e. habrá un límite para bajar la escala).
    * Nota_v2 = aplicar_escala_reducida(Nota)
 * Finalmente, se aplicarán las décimas de bonus:
    * Nota_v3 = Nota_v2 + BONUS RPC + BONUS Codeforces + BONUS Regional
@@ -53,6 +53,12 @@ La nota final se calcula calculando muchas cosas:
 ### Seguimiento de Asistencia y Problemas Resueltos:
 Todo lo anterior se encuentra formalizado en el siguiente google spreadsheet:
 https://docs.google.com/spreadsheets/d/12meuZQZbcV_yIMSi9UCcieX-eC2tWKEZQkWKtaQSUF0/
+
+### IMPORTANTE: mensaje para los alumnos nuevos
+El nivel de dificultad de los problemas en las regionales ICPC es bien alto, y por lo tanto un buen entrenamiento requiere que los alumnos sean expuestos a problemas de ese nivel. Sin embargo, entendemos que tirar a los alumnos nuevos "a los leones" de golpe puede ser un poco traumático. Por lo tanto, para los primeros 3 contests tendremos dos divisiones: división 1 (más difícil) y división 2 (más fácil). Los alumnos nuevos pueden optar por participar en la división 2 si así lo desean.
+
+### IMPORTANTE: sobre lenguajes de programación
+En programación competitiva el lenguaje más utilizado por lejos es C++ (y dentro de C++ generalmente se usa de C++11 para arriba). En segundo lugar se encuentra Java. [Y hace muy poco se comenzó a utilizar también Python](https://www.quora.com/Can-Python-be-used-in-ACM-ICPC). Sin embargo, lamentablemente la mayoría de los jueces online (los servidores que tienen los enunciados de los problemas y ejecutan los códigos enviados por la gente) generalmente están calibrados para aceptar soluciones en C++ y a veces Java, y pasa mucho que las soluciones en Python fallan con el famoso Time Limit Exceeded (TLE), ya que Python de por sí es un lenguaje interpretado que se demora mucho más en ejecutar que lenguajes compilados a código de máquina como C++. Además, la mayoría de los códigos de ejemplo disponibles en internet para progcomp están en C++ o quizá Java. Dado lo anterior, el consejo típico es aprender C++. A los alumnos nuevos que quieran seguir este consejo, les recomendamos aprovechar los primeros 3 contests en división 2 para aprender a programar en C++. Más abajo pueden encontrar harto material de estudio al respecto.
  
 _________________________________
 
