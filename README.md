@@ -40,7 +40,8 @@ La nota final se calcula calculando muchas cosas:
 * El promedio de la asistencia de todos los contests (llamémoslo X).
 * En caso de que X < 100%, el porcentaje que les falte (100% - X) lo pueden recuperar "reduciendo" su *deuda total* de problemas (llamémosla D). Para esto se hará el siguiente update:
    * D := deuda total de problemas
-   * K := excedente total + total upsolving Codepit + total upsolving RPC + total upsolving Codeforces
+   * K := X * (excedente total + total upsolving Codepit + total upsolving RPC + total upsolving Codeforces)
+      * nótese que la sumatoria anterior es "penalizada" por la asistencia promedio (i.e. vale más resolver problemas dentro de plazo que fuera de plazo).
    * D_reducido = max {D - K, 0}
    * X_aumentado = X + (1 - X) * ((D - D_reducido) / D)
 * Así se puede calcular su nota:
