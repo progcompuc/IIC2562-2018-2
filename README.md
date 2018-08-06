@@ -21,14 +21,14 @@ Además de estos contests, existen otras 3 formas adicionales de obtener bonus p
   * Registrarse en grupos de 2 o 3 alumnos.
   * Mandar una foto del grupo con todos sus integrantes juntos frente a un mismo computador (sí, la idea es que se junten físicamente usando un solo computador, como en la competencia real).
   * Mandar el link al scoreboard final de la competencia RPC en que participaron.
-  * El bonus se calculará como 5 * (X/N) décimas, donde X = problemas resueltos por el grupo, N = problemas resueltos por el equipo que quedó en primer lugar. Las 5 * (X/N) décimas obtenidas se sumarán directamente a su nota final.
+  * El bonus se calculará como 6 * (X/N) décimas, donde X = problemas resueltos por el grupo, N = problemas resueltos por el equipo que quedó en primer lugar. Las 6 * (X/N) décimas obtenidas se sumarán directamente a su nota final.
   * __\*\*EXTRA__: las RPCs tienen un modo _post-maratón_ (lo mismo que el _upsolving_ de codepit.io), así que si los alumnos lo desean pueden seguir resolviendo problemas en este modo, avisarnos, y estos problemas se les sumarán a un contador llamado **total upsolving RPC**.
 
 * __BONUS Codeforces__ (individual): Cada cierto tiempo [Codeforces](http://codeforces.com/) organiza competencias individuales, que generalmente duran 2.5 horas, con diferentes niveles de dificultad. Si se registran en Codeforces, el sitio les irá avisando por email sobre las próximas competencias. Para obtener este bonus deben:
   * Registrarse en Codeforces y mandarnos su username con anticipación.
   * Participar en una competencia.
   * Al final de la competencia avisarnos en qué competencia participaron (por ej. mandar el link a su perfil de Codeforces).
-  * El bonus se calculará como 4 * (X/N) décimas, donde X = problemas resueltos por el alumno, N = problemas resueltos por la persona que quedó en primer lugar. Las 4 * (X/N) décimas obtenidas se sumarán directamente a su nota final.
+  * El bonus se calculará como 3 * (X/N) décimas, donde X = problemas resueltos por el alumno, N = problemas resueltos por la persona que quedó en primer lugar. Las 3 * (X/N) décimas obtenidas se sumarán directamente a su nota final.
   * __\*\*EXTRA__: al finalizar la competencia, si quedaron con ganas de resolver problemas que no alcanzaron a resolver durante la competencia, pueden hacerlo, avisarnos, y estos problemas se les sumarán a un contador llamado **total upsolving Codeforces**.
 
 * __BONUS Regional__ (grupal): Cada año las universidades mandan sus mejores equipos para participar en las competencias regionales de la ACM ICPC. La PUC no es una excepción así que seleccionaremos los mejores 3 equipos (cada equipo con 3 alumnos) que nos representarán en la regional, la cual este año se llevará a cabo el 10 de Noviembre en la Universidad Austral de Chile, Valdivia. ¿Cómo obtener este bonus?
