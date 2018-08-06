@@ -53,7 +53,7 @@ La nota final se calcula calculando muchas cosas:
 
 ### Seguimiento de Asistencia y Problemas Resueltos:
 Todo lo anterior se encuentra formalizado en el siguiente google spreadsheet:
-https://docs.google.com/spreadsheets/d/12meuZQZbcV_yIMSi9UCcieX-eC2tWKEZQkWKtaQSUF0/
+https://docs.google.com/spreadsheets/d/1wm2jleZBV_M8V6FbTBpKfcI4uzNTg9ReMvnjq21LBXY/edit?usp=sharing
 
 ### IMPORTANTE: mensaje para los alumnos nuevos
 El nivel de dificultad de los problemas en las regionales ICPC es bien alto, y por lo tanto un buen entrenamiento requiere que los alumnos sean expuestos a problemas de ese nivel. Sin embargo, entendemos que tirar a los alumnos nuevos "a los leones" de golpe puede ser un poco traumático. Por lo tanto, para los primeros 3 contests tendremos dos divisiones: división 1 (más difícil) y división 2 (más fácil). Los alumnos nuevos pueden optar por participar en la división 2 si así lo desean.
@@ -339,3 +339,10 @@ ___________________________________________
 _______________________________________________
 
 ## Contests
+
+* Contest 1:
+  * División 1: https://www.codepit.io/#/contest/5b68c884766004001f49fb52/view
+  * División 2: https://www.codepit.io/#/contest/5b68d13b766004001f49fb56/view
+  * Fecha Inicio: 06 de Agosto
+  * Duración: 20 días
+  
