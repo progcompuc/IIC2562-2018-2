@@ -24,8 +24,8 @@ Además de estos contests, existen otras 3 formas adicionales de obtener bonus p
   * El bonus se calculará como 6 * (X/N) décimas, donde X = problemas resueltos por el grupo, N = problemas resueltos por el equipo que quedó en primer lugar. Las 6 * (X/N) décimas obtenidas se sumarán directamente a su nota final.
   * __\*\*EXTRA__: las RPCs tienen un modo _post-maratón_ (lo mismo que el _upsolving_ de codepit.io), así que si los alumnos lo desean pueden seguir resolviendo problemas en este modo, avisarnos, y estos problemas se les sumarán a un contador llamado **total upsolving RPC**.
 
-* __BONUS Codeforces__ (individual): Cada cierto tiempo [Codeforces](http://codeforces.com/) organiza competencias individuales, que generalmente duran 2.5 horas, con diferentes niveles de dificultad. Si se registran en Codeforces, el sitio les irá avisando por email sobre las próximas competencias. Para obtener este bonus deben:
-  * Registrarse en Codeforces y mandarnos su username con anticipación.
+* __BONUS Codeforces__ (individual): Cada cierto tiempo [Codeforces](http://codeforces.com/) organiza competencias individuales, que generalmente duran alrededor de 2 horas, con problemas de diferentes niveles de dificultad. Si se registran en Codeforces, el sitio les debería ir avisando por email sobre las próximas competencias. Alternativamente, pueden revisar el [siguiente calendario](http://codeforces.com/calendar) o bien utilizar [esta página](https://clist.by/) y en el search box tipear "codeforces". Para obtener este bonus deben:
+  * Registrarse en Codeforces.
   * Participar en una competencia.
   * Al final de la competencia avisarnos en qué competencia participaron (por ej. mandar el link a su perfil de Codeforces).
   * El bonus se calculará como 3 * (X/N) décimas, donde X = problemas resueltos por el alumno, N = problemas resueltos por la persona que quedó en primer lugar. Las 3 * (X/N) décimas obtenidas se sumarán directamente a su nota final.
