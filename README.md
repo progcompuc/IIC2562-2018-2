@@ -3,8 +3,8 @@
 ## 2018-2
 Bienvenidos a la página de apoyo del curso Taller de Programacion II.
 
-## Instrucciones del Curso
-### Cómo se calcula la nota:
+# Instrucciones del Curso
+
 Este es un curso 100% práctico, orientado a entrenar a alumnos en [programación competitiva](https://es.wikipedia.org/wiki/Usuario:Ltaravilse/Programaci%C3%B3n_competitiva) y preparar equipos que participen en la [ACM ICPC](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest) (celebrada anualmente) representando a la universidad. Por lo tanto, la nota final dependerá de la resolución por parte del alumno de problemas de programación competitiva. Cada cierto tiempo (una vez cada 1 o 2 semanas) se publicará un *contest* (o competencia, en español). Los contests se caracterizan por lo siguiente:
 
 * Se publicarán en [codepit.io](https://www.codepit.io/), un sitio web brasileño (sí, casi todo está en portugués) que permite crear competencias utilizando problemas obtenidos de diferentes jueces online (los enunciados de estos problemas están _casi_ siempre en inglés eso sí), con un scoreboard que se actualiza en tiempo real a medida que los participantes resuelven problemas. Para competir sólo basta con crearse una cuenta en [codepet.io](https://www.codepit.io/) y posteriormente unirse a los contests a medida que estos vayan siendo publicados.
@@ -19,8 +19,8 @@ Este es un curso 100% práctico, orientado a entrenar a alumnos en [programació
 Además de estos contests, existen otras 3 formas adicionales de obtener bonus para mejorar su nota final:
 * __BONUS RPC__ (grupal): Cada cierto tiempo la [Red de Programación Competitiva (RPC)](http://redprogramacioncompetitiva.com/) organiza competencias de entrenamiento. El calendario y registro para estas competencias se encuentran acá: http://registro.redprogramacioncompetitiva.com/contests, y los scoreboards de las competencias pasadas se pueden encontrar acá: http://redprogramacioncompetitiva.com/Contest. Nótese que se trata de un **bonus grupal**, por ende para obtener este bonus deben:
   * Registrarse en grupos de 2 o 3 alumnos.
-  * Deben mandar una foto del grupo con todos sus integrantes juntos frente a un mismo computador (sí, la idea es que se junten físicamente usando un solo computador, como en la competencia real).
-  * Deben mandar el link al scoreboard final de la competencia RPC en que participaron.
+  * Mandar una foto del grupo con todos sus integrantes juntos frente a un mismo computador (sí, la idea es que se junten físicamente usando un solo computador, como en la competencia real).
+  * Mandar el link al scoreboard final de la competencia RPC en que participaron.
   * El bonus se calculará como 5 * (X/N) décimas, donde X = problemas resueltos por el grupo, N = problemas resueltos por el equipo que quedó en primer lugar. Las 5 * (X/N) décimas obtenidas se sumarán directamente a su nota final.
   * __\*\*EXTRA__: las RPCs tienen un modo _post-maratón_ (lo mismo que el _upsolving_ de codepit.io), así que si los alumnos lo desean pueden seguir resolviendo problemas en este modo, avisarnos, y estos problemas se les sumarán a un contador llamado **total upsolving RPC**.
 
@@ -29,13 +29,34 @@ Además de estos contests, existen otras 3 formas adicionales de obtener bonus p
   * Participar en una competencia.
   * Al final de la competencia avisarnos en qué competencia participaron (por ej. mandar el link a su perfil de Codeforces).
   * El bonus se calculará como 4 * (X/N) décimas, donde X = problemas resueltos por el alumno, N = problemas resueltos por la persona que quedó en primer lugar. Las 4 * (X/N) décimas obtenidas se sumarán directamente a su nota final.
-  * __\*\*EXTRA__: al finalizar la competencia, si quedaron con ganas de resolver problemas quee no alcanzaron a resolver durante la competencia, pueden hacerlo, avisarnos, y estos problemas se les sumarán a un contador llamado **total upsolving Codeforces**.
+  * __\*\*EXTRA__: al finalizar la competencia, si quedaron con ganas de resolver problemas que no alcanzaron a resolver durante la competencia, pueden hacerlo, avisarnos, y estos problemas se les sumarán a un contador llamado **total upsolving Codeforces**.
 
-* __BONUS Regional__ (grupal): Cada año las universidades mandas sus mejores equipos para participar en las competencias regionales de la ACM ICPC. La PUC no es una excepción así que seleccionaremos los mejores 3 equipos (cada equipo con 3 alumnos) que nos representarán en la regional, la cual este año se llevará a cabo el 10 de Noviembre en la Universidad Austral de Chile, Valdivia. ¿Cómo obtener este bonus?
+* __BONUS Regional__ (grupal): Cada año las universidades mandan sus mejores equipos para participar en las competencias regionales de la ACM ICPC. La PUC no es una excepción así que seleccionaremos los mejores 3 equipos (cada equipo con 3 alumnos) que nos representarán en la regional, la cual este año se llevará a cabo el 10 de Noviembre en la Universidad Austral de Chile, Valdivia. ¿Cómo obtener este bonus?
   * Deben ser parte de alguno de los 3 mejores equipos seleccionados para representar a la PUC en la regional.
   * El bonus se calculará como 10 * (X/N) décimas, donde X = problemas resueltos por el equipo, N = problemas resueltos por el equipo que quedó en primer lugar. Las 10 * (X/N) décimas obtenidas se sumarán directamente a su nota final.
 
-## Material de Apoyo
+#### Cálculo de la Nota Final
+La nota final se calcula calculando muchas cosas:
+* El promedio de la asistencia de todos los contests (llamémoslo X).
+* En caso de que X < 100%, el porcentaje que les falte (100% - X) lo pueden recuperar "reduciendo" su *deuda total* de problemas (llamémosla D). Para esto se hará el siguiente update:
+   * D := deuda total de problemas
+   * K := excedente total + total upsolving Codepit + total upsolving RPC + total upsolving Codeforces
+   * D_reducido = max {D - K, 0}
+   * X_aumentado = X + (1 - X) * ((D - D_reducido) / D)
+* Así se puede calcular su nota:
+   * Nota = 1 + 6 * X_aumentado
+* Sin embargo, luego se bajará la escala del curso, donde el alumno con mayor asistencia quedará con nota 7 (siempre y cuando la escala baje "poco" - i.e. habrá un límite para bajara la escala).
+   * Nota_v2 = aplicar_escala_reducida(Nota)
+* Finalmente, se aplicarán las décimas de bonus:
+   * Nota_v3 = Nota_v2 + BONUS RPC + BONUS Codeforces + BONUS Regional
+
+### Seguimiento de Asistencia y Problemas Resueltos:
+Todo lo anterior se encuentra formalizado en el siguiente google spreadsheet:
+https://docs.google.com/spreadsheets/d/12meuZQZbcV_yIMSi9UCcieX-eC2tWKEZQkWKtaQSUF0/
+ 
+_________________________________
+
+# Material de Apoyo
 
 ### General
 * Canales de Youtube con muchas explicaciones:
@@ -44,21 +65,22 @@ Además de estos contests, existen otras 3 formas adicionales de obtener bonus p
   * Programación Competitiva CL:  https://www.youtube.com/channel/UCmVg7YyMS8H-65WCmkVHB9g/feed
 * Repositorios con muchos códigos de ejemplo (implementaciones de algoritmos y estructuras de datos típicos):
   * Google Doc con muchos códigos (C++): https://docs.google.com/document/d/1rcex_saP4tExbbU62qGUjR3eenxOh-50i9Y45WtHkc4/edit
-  * Google Doc con Apuntes de Robinson Castro et al (C++): https://docs.google.com/document/d/1pan53PU9_PIrPPVyNrbfXIAU-B6YnIaSBcB9lP9j0jE/edit
-  * Repo de Apuntes de Pablo Messina (C++): https://github.com/PabloMessina/Competitive-Programming-Material
+  * Google Doc con Apuntes de Robinson Castro et al (C++): https://docs.google.com/document/d/1pan53PU9_PIrPPVyNrbfXIAU-B6YnIaSBcB9lP9j0jE/edit  
   * Repo de Apuntes del team Caloventor en Dos (C++): https://github.com/mvpossum/eldiego
+  * Repo de Apuntes de Pablo Messina (C++): https://github.com/PabloMessina/Competitive-Programming-Material
 * Otras páginas con links a muchos recursos y material de estudio:
   * GeeksForGeeks: HOW TO PREPARE FOR ACM ICPC: https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/
-  * Techie Delight: Coding made easy: http://www.techiedelight.com/
   * Sitio web del Taller de la U. de Chile: http://progcomp.cl/taller
+  * Techie Delight: Coding made easy: http://www.techiedelight.com/  
   * Material Campamento 2015 progcomp.cl: http://campamento2015.progcomp.cl/material
   * Material Campamento 2016 progcomp.cl: http://campamento2016.progcomp.cl/material
   * Material Campamento 2017 progcomp.cl: http://campamento2017.progcomp.cl/material
+  * Material Campamento 2018 progcomp.cl: http://campamento2018.progcomp.cl/material
 * Libros con harto material de programación competitiva:
   * Competitive Programmer's Handbook: https://www.cses.fi/book.pdf
   * Competitive Programming 2: https://www.scribd.com/doc/155208844/Competitive-Programming-2
 
-### Soluciones Regionales Latinoamericanas
+### Soluciones de Regionales Latinoamericanas
 * Blogs con explicaciones:
   * Blog CaloventorEnDos: http://caloventorendos.blogspot.cl
   * Chocoblog: https://chococontest.wordpress.com/
@@ -84,6 +106,9 @@ Además de estos contests, existen otras 3 formas adicionales de obtener bonus p
    * Mac:
      * https://www.quora.com/What-is-the-best-FREE-C-C++-compiler-for-Mac-OS
      * http://stackoverflow.com/questions/9148488/how-do-i-compile-c-with-clang
+
+___________________________________________
+## Material para Temas Específicos
 
 ### Search:
 * Binary Search:
@@ -305,118 +330,4 @@ Además de estos contests, existen otras 3 formas adicionales de obtener bonus p
 
 _______________________________________________
 
-## Instrucciones para participar en contests:
-
-Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2OJ permite realizar contests  con problemas de diferentes jueces online (Codeforces, Live Archive, UVA, SPOJ, etc.). Por lo tanto, necesitan crearse primero una cuenta en A2OJ, luego deben crearse cuentas en los jueces online que vayamos utilizando, y finalmente deben preocuparse de *linkear* sus cuentas de los jueces con su cuenta de A2OJ (para que A2OJ se pueda dar cuenta de que resolvieron un problema en un juez dado). Los detalles de cómo hacer ese *link* con cada juez salen explicados en su página de account de A2OJ (https://a2oj.com/account).
-
-A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir creándose las cuentas on demand (para cada contest se publicará con anticipación el link para registrarse + los jueces a utilizar, así que no necesitan crearse todas las cuentas altiro). De todas formas acá abajo están links a posibles jueces (ordenados por probabilidad de uso):
-
-* Codeforces: http://codeforces.com/
-* URI: https://www.urionlinejudge.com.br/
-* Live Archive: https://icpcarchive.ecs.baylor.edu/
-* UVA: https://uva.onlinejudge.org/
-* SPOJ: http://www.spoj.com/
-* TIMUS: http://acm.timus.ru
-
 ## Contests
-* Taller 1: https://a2oj.com/contest?ID=35796
-  * Disponibilidad: 09/03/2018 - 23/03/2018 (2 semanas)
-  * Jueces a utilizar: Codeforces, URI, Live Archive
-  * Hints: implementation, math, recursion, backtracking, pruning, DP, HIV (heaviest increasing subsequence), Fenwick Tree
-  * Soluciones de ejemplo:
-    * Buggy ICPC: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/8189_BuggyICPC.cpp
-    * Fundraising: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/Fundraising.cpp
-    
-* Taller 2: https://a2oj.com/contest?ID=35889
-  * Disponibilidad: 16/03/2018 - 06/04/2018 (3 semanas)
-  * Jueces a utilizar: Codeforces, URI, Live Archive
-  * Hints: brute force, implementation, math, number theory, DP, LIS (longest increasing subsequence), HIV (heaviest increasing subsequence)
-  * Soluciones de ejemplo:
-    * T-primes: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/230B_T-primes.cpp
-    * Daunting Device: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/DauntingDevice.cpp
-    * Arranging Heaps: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ArrangingHeaps.cpp
-    
-* Taller 3: https://a2oj.com/contest?ID=36030
-  * Disponibilidad: 28/03/2018 - 20/04/2018 (3 semanas y fracción)
-  * Jueces a utilizar: Codeforces, URI
-  * Soluciones de ejemplo:
-    * Keep it Energized: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7213_KeepItEnergized.cpp
-    * Fence the Vegetables: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6826_FenceTheVegetables.cpp
-    * Journey Through The Kingdom: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JourneyThroughTheKingdom.cpp
-    * Electrical Pollution: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ElectricalPollution.cpp
-    * Dividing the Names: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6824_DividingTheNames.cpp
-    
-* Taller 4: https://a2oj.com/contest?ID=36242
-  * Disponibilidad: 13/04/2018 - 27/04/2018 (2 semanas)
-  * Jueces a utilizar: Codeforces, URI
-  * Soluciones de Ejemplo:
-    * HexStatistics: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/HexStatistics.cpp
-  
-* Taller 5: https://a2oj.com/contest?ID=36321
-  * Disponibilidad: 20/04/2018 - 04/05/2018 (2 semanas)
-  * Jueces a utilizar: Codeforces, URI, Live Archive
-  * Soluciones de ejemplo:
-    * Leaders: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/97E_Leaders.cpp
-    * HexStatistics: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/HexStatistics.cpp
-    
-* Taller 6: https://a2oj.com/contest?ID=36417
-  * Disponibilidad: 04/05/2018 - 18/05/2018 (2 semanas)
-  * Jueces a utilizar: Codeforces, URI, Timus
-  * Soluciones de Ejemplo:
-    * Join two kingdoms: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JoinTwoKingdoms.cpp
-    * Even Distribution: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6825_EvenDistribution.cpp
-    * Exposing Corruption: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7207_ExposingCorruption.cpp
-    * Painting Fence: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/448C_PaintingFence.cpp
-    * New Year Tree: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/379F_NewYearTree.cpp
-    * Tree2: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/acm.timus.ru/1752_Tree2.cpp
-    * Minimum Spanning Tree for each edge: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/609E_MinimumSpanningTreeForEachEdge.cpp
-    * Electrical Pollution: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ElectricalPollution.cpp
-    * Journey Through The Kingdom: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JourneyThroughTheKingdom.cpp
-
-* Taller 7: https://a2oj.com/contest?ID=36453
-  * Disponibilidad: 18/05/2018 - 01/06/2018 (2 semanas)
-  * Jueces a utilizar: Codeforces, URI, Live Archive, Timus
-  * Soluciones de Ejemplo:
-    * Keep it Energized: (háganlo con Dijkstra, la misma idea se aplica a "Journey Through The Kingdom") https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7213_KeepItEnergized_v2.cpp 
-    * Journey Through The Kingdom: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JourneyThroughTheKingdom.cpp
-    * New Year Tree: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/379F_NewYearTree.cpp
-    * Tree2: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/acm.timus.ru/1752_Tree2.cpp
-    * Necklace: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4271_Necklace.cpp
-    * Leaders: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/97E_Leaders.cpp
-    * Even Distribution: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6825_EvenDistribution.cpp    
-    
-* Taller 8: https://a2oj.com/contest?ID=36574
-  * Disponibilidad: 25/05/2018 - 15/06/2018 (3 semanas)
-  * Jueces a utilizar: Codeforces, URI, Live Archive, UVA, SPOJ
-  * Soluciones de Ejemplo:
-     * Dinosaur Menace: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/DINOSM_DinosaurMenace.cpp
-     * Attacking Rooks: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/AttackingRooks.cpp
-     * Kill The Werewolf: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/KillTheWerewolf.cpp
-     * Keep it Covered: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/8198_KeepItCovered.cpp
-  
-* Taller 9: https://a2oj.com/contest?ID=36677
-  * Disponibilidad: 08/06/2018 - 02/07/2018 (3+ semanas)
-  * Jueces a utilizar: Codeforces, URI, Live Archive, SPOJ
-  * Soluciones de Ejemplo:
-    * Divisors: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/EC_DIVS_Divisors.cpp
-    * Xenia and Bit Operations: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/339D_XeniaAndBitOperations.cpp
-    * Olympic Games: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Red%20de%20Programaci%C3%B3n%20Competitiva/2016-Competencia-11/J_OlympicGames.cpp
-    * The Art of Dealing with ATM: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/524C_TheArtOfDealingWithATMs.cpp
-    * Looking for Owls: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/350D_LookingForOwls.cpp
-    * Counting Ones: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/CountingOnes.cpp    
-    * Counting Self-Rotating Subsets: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/CountingSelfRotatingSubsets_v1.cpp
-    * Jupiter Attacks!: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JupiterAttacks.cpp
-    * Vladik And Entertaining Flags: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/811E_VladikAndEntertainingFlags.cpp
-    * Last Digit: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4008_LastDigit.cpp
-    * Cvjetici: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/CVJETICI_Cvjetici.cpp
-    * Just in Time: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JustInTime.cpp
-    * YAPTCHA: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4382_YAPTCHA.cpp
-    * Arranging Tiles: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ArrangingTiles.cpp
-    * Keep it Covered: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/8198_KeepItCovered.cpp
-* Taller Repechaje: https://a2oj.com/contest?ID=36906
-  * Disponiblidad: 01/07/2018 - 11/07/2018 (10 días)
-  * Jueces a utilizar: Live Archive
-__________________________________________________
-
-### Seguimiento de Asistencia y Problemas Resueltos
-https://docs.google.com/spreadsheets/d/12meuZQZbcV_yIMSi9UCcieX-eC2tWKEZQkWKtaQSUF0/edit?usp=sharing
