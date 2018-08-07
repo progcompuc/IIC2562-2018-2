@@ -82,6 +82,7 @@ _________________________________
   * Repo de Apuntes de Pablo Messina (C++): https://github.com/PabloMessina/Competitive-Programming-Material
 * Otras páginas con links a muchos recursos y material de estudio:
   * GeeksForGeeks: HOW TO PREPARE FOR ACM ICPC: https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/
+  * GeeksForGeeks: Top 10 Algorithms and Data Structures for Competitive Programming: https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/
   * Sitio web del Taller de la U. de Chile: http://progcomp.cl/taller
   * Techie Delight: Coding made easy: http://www.techiedelight.com/  
   * Material Campamento 2015 progcomp.cl: http://campamento2015.progcomp.cl/material
