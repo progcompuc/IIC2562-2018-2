@@ -262,11 +262,13 @@ ___________________________________________
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Strings/shortest_repeating_cycle.cpp
 
 ### Mathematics:
-* Prime Numbers:
-  * Sieve of Eratosthenes (all primes up to N): https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+* Números Primos:
+  * Criba de Eratóstenes (todos los primos hasta N):
+    * Criba de Eratóstenes [ICPCCL 2016]: https://www.youtube.com/watch?v=J4QCQ0dgeCI
+    * https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
   * Prime Factorization of Factorials: http://mathforum.org/library/drmath/view/67291.html
-* Modular Arithmetics:
-  * ¿De qué se trata Modular Arithmetics?
+* Aritmética Modular:
+  * ¿De qué se trata Aritmética Modular?
     * Introduction to Modular arithmetic: https://www.youtube.com/watch?v=9lUSKOjV4d0
     * High level introduction to modular arithmetic: https://www.youtube.com/watch?v=r0gYad8auYY
     * Congruence (Modular Arithmetic) & 5 Properties Explained with 7 Problems: Ultimate Shortcuts: https://www.youtube.com/watch?v=B1gD6540uWA
@@ -275,7 +277,8 @@ ___________________________________________
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/binary_modular_exponentiation.cpp
   * Modular Fibonacci with Exponentiation by Squaring:
     * http://mathoverflow.net/questions/40816/fibonacci-series-mod-a-number
-  * Euclidean Algorithm:
+  * Algoritmo de Euclides:
+    * Algoritmo de Euclides [ICPCCL 2016]: https://www.youtube.com/watch?v=k47fkSULGr0
     * GCD (greatest common divisor): https://www.youtube.com/watch?v=5jLWXwSXJdg
     * GCD extendido: https://www.youtube.com/watch?v=hB34-GSDT3k
     * Multiplicative Inverse Mod N: https://www.youtube.com/watch?v=_bRVA5b4sb4
