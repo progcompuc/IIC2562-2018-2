@@ -92,6 +92,7 @@ _________________________________
 * Libros con harto material de programación competitiva:
   * Competitive Programmer's Handbook: https://www.cses.fi/book.pdf
   * Competitive Programming 2: https://www.scribd.com/doc/155208844/Competitive-Programming-2
+  * Competitive Programming 3 (CP3): https://cpbook.net/
 
 ### Soluciones de Regionales Latinoamericanas
 * Blogs con explicaciones:
