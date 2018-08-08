@@ -352,7 +352,9 @@ _______________________________________________
 
 * Contest 1:
   * División 1: https://www.codepit.io/#/contest/5b68c884766004001f49fb52/view
+     * hints: geometría 2D
   * División 2: https://www.codepit.io/#/contest/5b68d13b766004001f49fb56/view
+     * hints: problemas de implementación, un poco de geometría 2D
   * Fecha Inicio: 06 de Agosto
   * Duración: 20 días
   
