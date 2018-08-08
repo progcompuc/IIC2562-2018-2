@@ -117,7 +117,7 @@ _________________________________
  * C++ Tutorial (SOLO LEARN: EVERYONE CAN CODE): https://www.sololearn.com/Course/CPlusPlus/
  * C++ Cheat Sheets & Tricks:
    * C++ Cheat Sheet for ACM ICPC : https://github.com/ntuorangejuice/cheat-sheet
-   * C++ STL cheatsheet for competitive progrmming: https://gist.github.com/satwikkansal/c959e89161cc60db16b412233177feab
+   * C++ STL cheatsheet for competitive programming: https://gist.github.com/satwikkansal/c959e89161cc60db16b412233177feab
    * C++ Tricks: https://codeforces.com/blog/entry/15643
    * C++ tricks for competitive programming (for C++ 11): https://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/
    * C++ Cheat Sheet de Pablo Messina: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/c%2B%2B_cheat_sheet.cpp 
