@@ -132,7 +132,7 @@ _________________________________
    * Mac:
      * https://www.quora.com/What-is-the-best-FREE-C-C++-compiler-for-Mac-OS
      * http://stackoverflow.com/questions/9148488/how-do-i-compile-c-with-clang
- * Ejemplo de secuencia de pasos para resolver un problema en C++ en Windows usando la terminal (en otro OSs es bien parecido):
+ * Ejemplo de secuencia de pasos para resolver un problema en C++ en Windows usando la terminal (en Linux/Mac es bien parecido):
     * Crear un archivo example.cpp
     * Escribir un código de C++ válido y guardar.
     * Abrir una terminal y navegar a la carpeta donde está el archivo.
