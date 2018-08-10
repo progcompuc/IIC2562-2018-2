@@ -146,7 +146,7 @@ _________________________________
       * el output aparecerá en la misma terminal
     * Opción 3:
       * Crear un archivo en la carpeta donde están parados llamado input.txt, copiar y pegar el input ahí y guardar.
-      * En la terminal, compilar ejecutar con el comando: ```g++ -std=c++11 example.cpp && a.exe < input.txt > output.txt```
+      * En la terminal, compilar y ejecutar con el comando: ```g++ -std=c++11 example.cpp && a.exe < input.txt > output.txt```
       * el output quedará guardado en el archivo output.txt
 
 ___________________________________________
