@@ -108,15 +108,16 @@ _________________________________
 
 ### Para aprender C++ (MUY RECOMENDADO)
  * ¿Qué es mejor para leer input / imprimir output? cin/cout vs printf/scanf: http://www.cplusplus.com/forum/beginner/34165/
- * Documentación Oficial de C++: http://www.cplusplus.com/reference/
+ * Documentación Oficial de C++: http://www.cplusplus.com/reference/ 
+ * C++ Tutorial (SOLO LEARN: EVERYONE CAN CODE): https://www.sololearn.com/Course/CPlusPlus/
  * LearnCpp: http://www.learncpp.com/
  * Intro a C++: https://youtu.be/pqWsOsfGKA0
  * Intro a la Programación Competitiva en C++: https://youtu.be/zTUJFG34Tyw
  * Estructuras básicas en C++: https://youtu.be/OldL5e5eGmY
- * C++ Programming Video Tutorials For Beginners [ Complete Series ]: https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C
- * C++ Tutorial (SOLO LEARN: EVERYONE CAN CODE): https://www.sololearn.com/Course/CPlusPlus/
+ * C++ Programming Video Tutorials For Beginners [ Complete Series ]: https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C 
  * C++ Cheat Sheets & Tricks:
    * C++ Cheat Sheet for ACM ICPC : https://github.com/ntuorangejuice/cheat-sheet
+     * Aquí pueden encontrar un C++ Solution Template (código que uno siempre escribe al comenzar una solución) + MUCHO MUCHO más :)
    * C++ STL cheatsheet for competitive programming: https://gist.github.com/satwikkansal/c959e89161cc60db16b412233177feab
    * C++ Tricks: https://codeforces.com/blog/entry/15643
    * C++ tricks for competitive programming (for C++ 11): https://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/
@@ -131,6 +132,25 @@ _________________________________
    * Mac:
      * https://www.quora.com/What-is-the-best-FREE-C-C++-compiler-for-Mac-OS
      * http://stackoverflow.com/questions/9148488/how-do-i-compile-c-with-clang
+ * Ejemplo de secuencia de pasos para resolver un problema en C++ (en Windows, en otro OSs es bien parecido):
+    * Crear un archivo example.cpp
+    * Escribir un código de C++ válido y guardar.
+    * Abrir una terminal y navegar a la carpeta donde está el archivo.
+    * Opción 1:
+      * En la terminal, compilar y ejecutar con el comando:
+         * g++ -std=c++11 example.cpp && a.exe
+      * Escribir el input directamente en la terminal
+      * El output irá apareciendo poco a poco en la terminal (intercalado con el input)
+    * Opción 2:      
+      * Crear un archivo en la carpeta donde están parados llamado input.txt, copiar y pegar el input ahí y guardar.
+      * En la terminal, compilar y ejecutar con el comando:
+        * g++ -std=c++11 example.cpp && a.exe < input.txt
+      * el output aparecerá en la misma terminal
+    * Opción 3:
+      * Crear un archivo en la carpeta donde están parados llamado input.txt, copiar y pegar el input ahí y guardar.
+      * En la terminal, compilar ejecutar con el comando:
+        * g++ -std=c++11 example.cpp && a.exe < input.txt > output.txt
+      * el output quedará guardado en el archivo output.txt
 
 ___________________________________________
 ## Material para Temas Específicos
