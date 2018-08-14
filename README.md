@@ -323,6 +323,15 @@ ___________________________________________
 ### Geometry:
 * Video Repaso de Geometría (SÚPER BUENO):
   * Geometría Computacional [ICPCCL 2016]: https://youtu.be/nk5ejrBWORw?list=PL-c_98SOXhxaXMMfnemh2ihniZsj57L8-
+* Geometry: 2D points and lines [Tutorial]: https://codeforces.com/blog/entry/48122
+* Cross Product and Dot Product: Visual explanation: https://www.youtube.com/watch?v=h0NJK4mEIJU
+* Producto Cruz:
+  * Cross Product - Math is fun: https://www.mathsisfun.com/algebra/vectors-cross-product.html
+  * Cross products | Essence of linear algebra, Chapter 10: https://www.youtube.com/watch?v=eu6i7WJeinw
+  * Calculating a 2D Vector's Cross Product: https://stackoverflow.com/questions/243945/calculating-a-2d-vectors-cross-product
+  * https://codeforces.com/blog/entry/48122 (saltarse a la parte cross product)
+* Producto Punto:
+  * https://codeforces.com/blog/entry/48122 (saltarse a la parte dot product)
 * Códigos varios de geometría 2D: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/Geometry2DUtils.cpp. Incluye:
   * Ejemplo de un struct Point
   * Producto Cruz: Orientación de un punto respecto a un rayo (left, collinear o right)
