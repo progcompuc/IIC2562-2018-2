@@ -332,6 +332,7 @@ ___________________________________________
   * https://codeforces.com/blog/entry/48122 (saltarse a la parte cross product)
 * Producto Punto:
   * https://codeforces.com/blog/entry/48122 (saltarse a la parte dot product)
+  * Dot Product & Angle Between Vectors: https://www.youtube.com/watch?v=p8BZTFNSKIw
 * Códigos varios de geometría 2D: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/Geometry2DUtils.cpp. Incluye:
   * Ejemplo de un struct Point
   * Producto Cruz: Orientación de un punto respecto a un rayo (left, collinear o right)
