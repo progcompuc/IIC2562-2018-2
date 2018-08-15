@@ -319,11 +319,11 @@ ___________________________________________
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/euclidean_algorithm.cpp
   * Modular Binomial Coefficient (Choose(n,k) mod X):
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_binomial_coefficient.cpp
-  * Integración Numérica:
-    * Wikipedia: https://en.wikipedia.org/wiki/Numerical_integration
-    * Codeforces: Tasks involving numerical integration: https://codeforces.com/blog/entry/8242
-    * Simpson's Rule & Numerical Integration: https://www.youtube.com/watch?v=7EqRRuh-5Lk
-    * Numerical Integration With Trapezoidal and Simpson's Rule: https://www.youtube.com/watch?v=RTX-ik_8i-k    
+* Integración Numérica:
+  * Wikipedia: https://en.wikipedia.org/wiki/Numerical_integration
+  * Codeforces: Tasks involving numerical integration: https://codeforces.com/blog/entry/8242
+  * Simpson's Rule & Numerical Integration: https://www.youtube.com/watch?v=7EqRRuh-5Lk
+  * Numerical Integration With Trapezoidal and Simpson's Rule: https://www.youtube.com/watch?v=RTX-ik_8i-k    
 
 ### Geometry:
 * Video Repaso de Geometría (SÚPER BUENO):
