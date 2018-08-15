@@ -322,6 +322,7 @@ ___________________________________________
 * Integración Numérica:
   * Wikipedia: https://en.wikipedia.org/wiki/Numerical_integration
   * Codeforces: Tasks involving numerical integration: https://codeforces.com/blog/entry/8242
+  * Explanation of Simpson's rule | MIT 18.01SC Single Variable Calculus, Fall 2010: https://www.youtube.com/watch?v=uc4xJsi99bk
   * Simpson's Rule & Numerical Integration: https://www.youtube.com/watch?v=7EqRRuh-5Lk
   * Numerical Integration With Trapezoidal and Simpson's Rule: https://www.youtube.com/watch?v=RTX-ik_8i-k    
 
