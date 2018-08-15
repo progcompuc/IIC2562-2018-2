@@ -319,6 +319,8 @@ ___________________________________________
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/euclidean_algorithm.cpp
   * Modular Binomial Coefficient (Choose(n,k) mod X):
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_binomial_coefficient.cpp
+  * Integración Numérica:
+    * Codeforces: Tasks involving numerical integration: https://codeforces.com/blog/entry/8242
 
 ### Geometry:
 * Video Repaso de Geometría (SÚPER BUENO):
