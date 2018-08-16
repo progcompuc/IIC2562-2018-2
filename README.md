@@ -398,7 +398,7 @@ _______________________________________________
 
 ## Contests
 
-* Contest 1:
+* Contest 1 [INDIVIDUAL]:
   * División 1: https://www.codepit.io/#/contest/5b68c884766004001f49fb52/view
      * hints: geometría 2D
   * División 2: https://www.codepit.io/#/contest/5b68d13b766004001f49fb56/view
@@ -409,7 +409,7 @@ _______________________________________________
     * Div1: [Left, Right or Center?](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/CROSSPDCT_Left-right-or-center.cpp), [Inside or Outside?](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/INOROUT_Inside_or_outside.cpp), [Counting Triangles](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/CountingTriangles.cpp), [ACIS, A Contagious vIruS](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/13117_ACIS_A_Contagious_vIruS.cpp), [Dating On-Line](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/DatingOn-Line.cpp), Cake Cut [[v1](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7205_CakeCut_v1.cpp),[v2](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7205_CakeCut_v2.cpp)], [Keeping the Dogs Apart](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/KeepingTheDogsApart.cpp), [Fence the Vegetables Fail](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/13009_FenceTheVegetablesFail.cpp), [Arranging Tiles](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ArrangingTiles.cpp), [High Mountains](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/HighMountains.cpp)
     * Div2: [Sum of the Others](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/SumOfTheOthers.cpp), [Touchscreen Keyboard](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/TouchscreenKeyboard.cpp), [Polynomial Multiplication 1](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/PolynomialMultiplication1.cpp), [Planting Trees](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/PlantingTrees.cpp), [Chewbacca and Number](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/514A_ChewbaccaAndNumber.cpp), [Left, Right or Center?](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/CROSSPDCT_Left-right-or-center.cpp), [Inside or Outside?](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/INOROUT_Inside_or_outside.cpp), [Counting Triangles](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/CountingTriangles.cpp)    
     
-* Contest 2:
+* Contest 2 [GRUPAL]:
   * División 1: https://www.codepit.io/#/contest/5b75d4f5766004001f49ffda/view
   * División 2: https://www.codepit.io/#/contest/5b75e7976ea097002368b564/view
   * Fecha Inicio: 17 de Agosto
