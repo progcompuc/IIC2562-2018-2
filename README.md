@@ -128,6 +128,7 @@ _________________________________
    * C++ tricks for competitive programming (for C++ 11): https://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/
    * C++ Cheat Sheet de Pablo Messina: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/c%2B%2B_cheat_sheet.cpp
  * Conocimiento avanzado de lenguaje:
+   * Pointers vs References: http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html
    * lvalues vs rvalues: https://eli.thegreenplace.net/2011/12/15/understanding-lvalues-and-rvalues-in-c-and-c
    * Operator and Function Overloading: https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm
    * Functors: https://stackoverflow.com/questions/356950/what-are-c-functors-and-their-uses
