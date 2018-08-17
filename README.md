@@ -167,6 +167,7 @@ ___________________________________________
   * https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial/
   * https://en.wikipedia.org/wiki/Ternary_search
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Search/TernarySearch.cpp
+  * Reemplazando Ternary con Binary Search: [Codeforces - The great ternary search hoax](http://codeforces.com/blog/entry/11497)
 
 ### Data Structures:
 * Union Find (Disjoint Sets):
