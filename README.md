@@ -169,6 +169,7 @@ ___________________________________________
   * https://www.tutorialspoint.com/data_structures_algorithms/binary_search_algorithm.htm
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Search/BinarySearch.cpp
   * http://progcomp.cl/binarysearch
+  * caso especial: [binary search on doubles - codeforces](http://codeforces.com/blog/entry/20390)
 * Ternary Search:
   * https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial/
   * https://en.wikipedia.org/wiki/Ternary_search
