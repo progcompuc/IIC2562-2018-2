@@ -164,6 +164,7 @@ ___________________________________________
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Search/BinarySearch.cpp
   * http://progcomp.cl/binarysearch
 * Ternary Search:
+  * https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial/
   * https://en.wikipedia.org/wiki/Ternary_search
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Search/TernarySearch.cpp
 
