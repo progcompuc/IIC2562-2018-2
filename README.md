@@ -16,7 +16,13 @@ Este es un curso 100% práctico, orientado a entrenar a alumnos en [programació
   * Si N < Xp, dicho alumno obtiene una asistencia de 100 * (Xp / N) % en dicho contest. Además, todos los problemas que le faltaron (Xp - N) se sumarán a un contador llamado **deuda total**.
 * En codepit.io, cuando el plazo de un contest se acaba, los participantes pueden seguir enviando soluciones en un modo post-competencia conocido como **upsolving**. Todos los problemas resueltos en modo upsolving se agregarán a un contador llamado **total upsolving Codepit**.
 
-Además de estos contests, existen otras 3 formas adicionales de obtener bonus para mejorar su nota final:
+Además de estos contests, existen otras 4 formas adicionales de obtener bonus para mejorar su nota final:
+
+* __BONUS EXPLICACIÓN PROBLEMA DIFÍCIL__ (individual): Este bonus permite obtener hasta un máximo de 2 décimas cada vez, las que se sumarán directamente a su nota final. ¿Cómo obtener este bonus?:
+  * El alumno debe sacar _accepted_ en un problema difícil que casi nadie más haya podido resolver. El problema debe pertenecer a alguno de los contests del semestre y puede ser resuelto en modo _upsolving_ también (no es obligatorio alcanzar a resolverlo dentro de plazo).
+  * El alumno debe publicar su solución para que todos los demás la puedan ver (por ej. pueden subirla a un repositorio público en github).
+  * El alumno debe preparar y dar una explicación de la solución adelante durante la clase y debe asegurarse de que los demás compañeros le entiendan.
+  
 * __BONUS RPC__ (grupal): Cada cierto tiempo la [Red de Programación Competitiva (RPC)](http://redprogramacioncompetitiva.com/) organiza competencias de entrenamiento. El calendario y registro para estas competencias se encuentran acá: http://registro.redprogramacioncompetitiva.com/contests, y los scoreboards de las competencias pasadas se pueden encontrar acá: http://redprogramacioncompetitiva.com/Contest. Nótese que se trata de un **bonus grupal**, por ende para obtener este bonus deben:
   * Registrarse en grupos de 2 o 3 alumnos.
   * Mandar una foto del grupo con todos sus integrantes juntos frente a un mismo computador (sí, la idea es que se junten físicamente usando un solo computador, como en la competencia real).
