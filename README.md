@@ -55,7 +55,7 @@ La nota final se calcula calculando muchas cosas:
 * Sin embargo, luego se bajará la escala del curso, donde el alumno con mayor asistencia quedará con nota 7 (siempre y cuando la escala baje "poco" - i.e. habrá un límite para bajar la escala).
    * Nota_v2 = aplicar_escala_reducida(Nota)
 * Finalmente, se aplicarán las décimas de bonus:
-   * Nota_v3 = Nota_v2 + BONUS RPC + BONUS Codeforces + BONUS Regional
+   * Nota_v3 = Nota_v2 + BONUS EXPL. PROB. DIFÍCILES + BONUS RPC + BONUS Codeforces + BONUS Regional
 
 ### Seguimiento de Asistencia y Problemas Resueltos:
 Todo lo anterior se encuentra formalizado en el siguiente google spreadsheet:
