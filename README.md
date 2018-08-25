@@ -22,6 +22,7 @@ Además de estos contests, existen otras 4 formas adicionales de obtener bonus p
   * El alumno debe sacar _accepted_ en un problema difícil que casi nadie más haya podido resolver. El problema debe pertenecer a alguno de los contests del semestre y puede ser resuelto en modo _upsolving_ también (no es obligatorio alcanzar a resolverlo dentro de plazo).
   * El alumno debe publicar su solución para que todos los demás la puedan ver (por ej. pueden subirla a un repositorio público en github).
   * El alumno debe preparar y dar una explicación de la solución adelante durante la clase y debe asegurarse de que los demás compañeros le entiendan.
+  * __\*\*EXTRA__: si están motivados con un problema difícil pero no saben por dónde empezar, pueden consultar con el staff del curso y nosotros trataremos de ayudarles/orientarles con material de estudio y consejos para resolver el problema.
   
 * __BONUS RPC__ (grupal): Cada cierto tiempo la [Red de Programación Competitiva (RPC)](http://redprogramacioncompetitiva.com/) organiza competencias de entrenamiento. El calendario y registro para estas competencias se encuentran acá: http://registro.redprogramacioncompetitiva.com/contests, y los scoreboards de las competencias pasadas se pueden encontrar acá: http://redprogramacioncompetitiva.com/Contest. Nótese que se trata de un **bonus grupal**, por ende para obtener este bonus deben:
   * Registrarse en grupos de 2 o 3 alumnos.
