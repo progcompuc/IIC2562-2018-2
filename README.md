@@ -381,6 +381,7 @@ ___________________________________________
         * 78 - Finding area with Green's theorem: https://www.youtube.com/watch?v=42vEvHpXYP8
         * How to Use Green's Theorem to Find the Area of A Region: https://www.youtube.com/watch?v=w3ugdu0oFgE
         * Green's Theorem: area under an arch | MIT 18.02SC Multivariable Calculus, Fall 2010: https://www.youtube.com/watch?v=KXof0q88xbg
+    * Código ejemplo: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/GreensTheorem.cpp
   * Área de un polígono simple:
     * http://math.blogoverflow.com/2014/06/04/greens-theorem-and-area-of-polygons/
     * http://stackoverflow.com/questions/451426/how-do-i-calculate-the-area-of-a-2d-polygon    
