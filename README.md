@@ -313,6 +313,11 @@ ___________________________________________
 
 ### Mathematics:
 * Números Primos:
+  * Tests de Primailidad:
+    * Fastest algorithm for primality test: https://stackoverflow.com/questions/2586596/fastest-algorithm-for-primality-test
+    * Miller Rabin:
+      * https://www.geeksforgeeks.org/primality-test-set-3-miller-rabin/
+      * deterministic variant: https://miller-rabin.appspot.com/
   * Criba de Eratóstenes (todos los primos hasta N):
     * Criba de Eratóstenes [ICPCCL 2016]: https://www.youtube.com/watch?v=J4QCQ0dgeCI
     * https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
