@@ -439,4 +439,4 @@ _______________________________________________
   * División 1: https://www.codepit.io/#/contest/5b873d316ea097002368bfc5/view
   * División 2: https://www.codepit.io/#/contest/5b873b03766004001f4a0a2b/view
   * Fecha Inicio: 31 de Agosto
-  * Duración: 20 días
+  * Duración: 23 días
