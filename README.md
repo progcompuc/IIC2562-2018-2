@@ -122,7 +122,9 @@ _________________________________
 * http://acmgnyr.org
 
 ### Para aprender C++ (MUY RECOMENDADO)
- * ¿Qué es mejor para leer input / imprimir output? cin/cout vs printf/scanf: http://www.cplusplus.com/forum/beginner/34165/
+ * INPUT / OUTPUT:
+   * Yet again on C++ input/output: http://codeforces.com/blog/entry/5217
+   * ¿Qué es mejor para leer input / imprimir output? cin/cout vs printf/scanf: http://www.cplusplus.com/forum/beginner/34165/
  * Documentación Oficial de C++: http://www.cplusplus.com/reference/ 
  * C++ Tutorial (SOLO LEARN: EVERYONE CAN CODE): https://www.sololearn.com/Course/CPlusPlus/
  * LearnCpp: http://www.learncpp.com/
