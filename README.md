@@ -175,6 +175,9 @@ _________________________________
 ___________________________________________
 ## Material para Temas Específicos
 
+### Tricks para problemas Ad-Hoc:
+ * General Ideas: https://codeforces.com/blog/entry/48417
+
 ### Search:
 * Binary Search:
   * https://www.youtube.com/watch?v=jf1baieXkSQ
