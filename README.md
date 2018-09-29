@@ -304,6 +304,13 @@ ___________________________________________
      * Maximum Bipartite Matching: http://www.geeksforgeeks.org/maximum-bipartite-matching/
 
 ### Strings:
+* Suffix Array:
+  * ¿Qué es un suffix array?: [Youtube - Suffix Array introduction](https://www.youtube.com/watch?v=zqKlL3ZpTqs)
+  * HackerRank - Suffix Array: https://www.hackerrank.com/challenges/ashton-and-string/topics/suffix-array
+  * Suffix Array Construction: https://www.cs.helsinki.fi/u/tpkarkka/opetus/10s/spa/lecture11.pdf
+  * Códigos de Ejemplo:
+    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Strings/suffix_array.cpp
+    * http://codeforces.com/blog/entry/4025
 * Trie:
   * https://en.wikipedia.org/wiki/Trie
   * https://www.youtube.com/watch?v=zIjfhVPRZCg
