@@ -304,6 +304,9 @@ ___________________________________________
      * Maximum Bipartite Matching: http://www.geeksforgeeks.org/maximum-bipartite-matching/
 
 ### Strings:
+* Rolling Hashing:
+  * https://progcomp.cl/rollinghashing
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Strings/RollingHashing.cpp
 * Suffix Array:
   * ¿Qué es un suffix array?: [Youtube - Suffix Array introduction](https://www.youtube.com/watch?v=zqKlL3ZpTqs)
   * HackerRank - Suffix Array: https://www.hackerrank.com/challenges/ashton-and-string/topics/suffix-array
