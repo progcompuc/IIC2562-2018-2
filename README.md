@@ -201,7 +201,8 @@ ___________________________________________
   * https://www.youtube.com/watch?v=ZBHKZF5w4YU
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/segment-tree.cpp
 * Segment Tree Lazy: https://www.youtube.com/watch?v=xuoQdt5pHj0
-* Fenwick Tree (a.k.a. BIT o Binary Indexed Tree):  
+* Fenwick Tree (a.k.a. BIT o Binary Indexed Tree):
+  * [HackerEarth - binary indexed tree made easy](https://www.hackerearth.com/practice/notes/binary-indexed-tree-made-easy-2/)
   * (recomendado) (explicación de Jorge Pérez) https://youtu.be/0PzR0IoqkkU?t=2160
     * https://youtu.be/0PzR0IoqkkU?t=1453 (por si quieren ver la explicación de **sweep line** también que viene justo antes)
   * (recomendado) https://www.youtube.com/watch?v=CWDQJGaN1gY
