@@ -479,3 +479,9 @@ _______________________________________________
     * [CC4006] Taller 3: https://www.codepit.io/#/contest/5bca1aa3b390c1001e1eaf00/view
   * AVISO: el tiempo límite del problema "Marblecoin" está mal configurado en LiveArchive (siempre tira TLE). Lo que pueden hacer es submitear su solución en el [Gym de Codeforces](http://codeforces.com/gym/101889/submit)
   
+* Contest 5 [GRUPAL]:
+  * Fecha Inicio: 24 de Octubre
+  * Duración: 37 días
+  * Link: https://www.codepit.io/#/contest/5bcff72bff0dd0001f220013/view
+
+  
