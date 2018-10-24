@@ -483,5 +483,11 @@ _______________________________________________
   * Fecha Inicio: 24 de Octubre
   * Duración: 37 días
   * Link: https://www.codepit.io/#/contest/5bcff72bff0dd0001f220013/view
+  * T(A|C)P modo post-competencia:
+     * link: http://104.248.69.21/pc2team/Login/login.php
+     * deben loggearse usando: teamX (username) / teamX (password), donde X es algún natural entre 1 y 70 (inclusive)
+     * deben avisar qué teamX están usando
+     * deben publicar sus soluciones en internet (de preferencia, Github)
+     * el contest contará como bonus RPC
 
   
