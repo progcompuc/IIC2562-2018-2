@@ -322,6 +322,7 @@ ___________________________________________
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Strings/Trie.cpp
 * KMP (String Pattern Matching):
   * https://www.youtube.com/watch?v=v82y5TCcBhQ
+  * https://www.youtube.com/watch?v=V5-7GzOfADQ
   * https://www.youtube.com/watch?v=GTJr8OvyEVQ
   * https://www.youtube.com/watch?v=KG44VoDtsAA
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Strings/KMP.cpp
