@@ -84,6 +84,7 @@ _________________________________
 
 ### General
 * Canales de Youtube con muchas explicaciones:
+  * Abdul Bari: https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw
   * Algorithms Live!: https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w/
   * Tushar Roy - Coding Made Simple: https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw
   * Programación Competitiva CL:  https://www.youtube.com/channel/UCmVg7YyMS8H-65WCmkVHB9g/feed
