@@ -361,6 +361,8 @@ ___________________________________________
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/euclidean_algorithm.cpp
   * Modular Binomial Coefficient (Choose(n,k) mod X):
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_binomial_coefficient.cpp
+  * Modular Multinomial Coefficient:
+    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_multinomial_coefficient.cpp
 * Integración Numérica:
   * Wikipedia: https://en.wikipedia.org/wiki/Numerical_integration
   * Codeforces: Tasks involving numerical integration: https://codeforces.com/blog/entry/8242
@@ -485,6 +487,7 @@ _______________________________________________
   * Fecha Inicio: 24 de Octubre
   * Duración: 37 días
   * Link: https://www.codepit.io/#/contest/5bcff72bff0dd0001f220013/view
+    * Soluciones de ejemplo: [Factors](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/1575_Factors.cpp)
   * T(A|C)P modo post-competencia:
      * link: http://104.248.69.21/pc2team/Login/login.php
      * deben loggearse usando: teamX (username) / teamX (password), donde X es algún natural entre 1 y 70 (inclusive)
