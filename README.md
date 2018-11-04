@@ -493,7 +493,7 @@ _______________________________________________
   * Fecha Inicio: 24 de Octubre
   * Duración: 37 días
   * Link: https://www.codepit.io/#/contest/5bcff72bff0dd0001f220013/view
-    * Soluciones de ejemplo: [Factors](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/1575_Factors.cpp)
+    * Soluciones de ejemplo: [Factors](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/1575_Factors.cpp), Square Subsets ((Explicación de Martín Muñoz)[https://drive.google.com/file/d/1iHNvOggGJMsX7LfaISdzE1D_2Hr_GKEd/view?usp=sharing])
   * T(A|C)P modo post-competencia:
      * link: http://104.248.69.21/pc2team/Login/login.php
      * deben loggearse usando: teamX (username) / teamX (password), donde X es algún natural entre 1 y 70 (inclusive)
