@@ -207,7 +207,12 @@ ___________________________________________
   * http://progcomp.cl/segmenttree
   * https://www.youtube.com/watch?v=ZBHKZF5w4YU
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/segment-tree.cpp
-* Segment Tree Lazy: https://www.youtube.com/watch?v=xuoQdt5pHj0
+* Segment Tree Lazy: 
+   * Lazy Propagation Segment Tree: https://www.youtube.com/watch?v=xuoQdt5pHj0
+   * Segment Tree - Range Queries with Lazy Updates: https://www.youtube.com/watch?v=CN0N1ddJ9hA
+   * Implementaciones de Ejemplo:
+     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/segment-tree-lazy.cpp
+     
 * Fenwick Tree (a.k.a. BIT o Binary Indexed Tree):
   * [HackerEarth - binary indexed tree made easy](https://www.hackerearth.com/practice/notes/binary-indexed-tree-made-easy-2/)
   * (recomendado) (explicación de Jorge Pérez) https://youtu.be/0PzR0IoqkkU?t=2160
