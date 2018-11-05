@@ -498,7 +498,7 @@ _______________________________________________
   * Fecha Inicio: 24 de Octubre
   * Duración: 37 días
   * Link: https://www.codepit.io/#/contest/5bcff72bff0dd0001f220013/view
-    * Soluciones de ejemplo: [Factors](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/1575_Factors.cpp), Square Subsets ([Explicación de Martín Muñoz](https://www.overleaf.com/read/pqxtjsvrdbzh), [Solución de Martín Muñoz](https://github.com/mmunos/cp/blob/master/codeforces/Round%20%23448%20(Div.%202)/C%20-%20Square%20Subsets/C.java))
+    * Soluciones de ejemplo: [Factors](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/1575_Factors.cpp), Square Subsets (Por Martín Muñoz: [Explicación](https://www.overleaf.com/read/pqxtjsvrdbzh), [Sol. v1](https://github.com/mmunos/cp/blob/master/codeforces/Round%20%23448%20(Div.%202)/C%20-%20Square%20Subsets/C.java), [Sol. v2](https://github.com/mmunos/cp/blob/master/codeforces/Round%20%23448%20(Div.%202)/C%20-%20Square%20Subsets/C_alt.java))
   * T(A|C)P modo post-competencia:
      * link: http://104.248.69.21/pc2team/Login/login.php
      * deben loggearse usando: teamX (username) / teamX (password), donde X es algún natural entre 1 y 70 (inclusive)
