@@ -234,6 +234,11 @@ ___________________________________________
   * https://www.youtube.com/watch?v=P8Cm_koLdxM
 * Bottom-Up vs Top-Down: http://stackoverflow.com/questions/6164629/dynamic-programming-and-memoization-bottom-up-vs-top-down-approaches
 * Playlist con muchos ejemplos: https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
+* DPs típicos:
+  * Knapsack:
+    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Dynamic_Programming/Knapsack.cpp
+  * TSP (travelling salesman problem / vendedor viajero):
+    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Dynamic_Programming/TSP%20(travelling%20salesman%20problem).cpp
 * Optimizaciones para DP: 
   * Divide & Conquer Optimization:
     * http://jeffrey-xiao.github.io/#!/blog/posts/2015-12-14-Divide-and-Conquer-Optimization
