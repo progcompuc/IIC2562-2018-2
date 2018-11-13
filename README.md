@@ -122,6 +122,7 @@ _________________________________
   * [Codeforces - ACM ICPC 2015 Latin America Finals](https://codeforces.com/blog/entry/21576)
   * [Codeforces - ACM ICPC 2016 Latin America Finals](https://codeforces.com/blog/entry/48366)
   * [Codeforces - ACM ICPC 2017 Latin America Finals](https://codeforces.com/blog/entry/55700)
+  * [Codeforces - ACM ICPC 2017 Latin America Finals](https://codeforces.com/blog/entry/63157)
 * Google Sheet con soluciones de las últimas regionales (work in progress): https://docs.google.com/spreadsheets/d/1F8aBV83xKPVFfq_A0EKhCa8qbjf0gKKg8puQF-rbonQ/
 * Inputs y outputs oficiales de regionales latam pasadas: http://maratona.ime.usp.br/antigas18.html
 
