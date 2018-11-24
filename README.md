@@ -505,6 +505,8 @@ _______________________________________________
   * Duración: 37 días
   * Link: https://www.codepit.io/#/contest/5bcff72bff0dd0001f220013/view
     * Soluciones de ejemplo: [Factors](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/1575_Factors.cpp), Square Subsets (Por Martín Muñoz: [Explicación](https://www.overleaf.com/read/pqxtjsvrdbzh), [Sol. v1](https://github.com/mmunos/cp/blob/master/codeforces/Round%20%23448%20(Div.%202)/C%20-%20Square%20Subsets/C.java), [Sol. v2](https://github.com/mmunos/cp/blob/master/codeforces/Round%20%23448%20(Div.%202)/C%20-%20Square%20Subsets/C_alt.java))(Por Pablo Messina: [link](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/895C_SquareSubsets.cpp))
+  * ICPC Regional Latam 2018: http://codeforces.com/blog/entry/63157
+  * ICPC Chile - motivational - div0 (hard): https://open.kattis.com/contests/syiike
   * T(A|C)P modo post-competencia:
      * link: http://104.248.69.21/pc2team/Login/login.php
      * deben loggearse usando: teamX (username) / teamX (password), donde X es algún natural entre 1 y 70 (inclusive)
