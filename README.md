@@ -266,7 +266,9 @@ ___________________________________________
   * https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/tutorial/
   * https://www.hackerearth.com/practice/algorithms/graphs/biconnected-components/tutorial/
   * Código de ejemplo: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/articulation-points%2Ccut-edges%2Cbiconnected-components.cpp
-* Diameter of a Tree: http://cs.stackexchange.com/questions/22855/algorithm-to-find-diameter-of-a-tree-using-bfs-dfs-why-does-it-work
+* Diameter of a Tree:
+  * http://cs.stackexchange.com/questions/22855/algorithm-to-find-diameter-of-a-tree-using-bfs-dfs-why-does-it-work
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/diameter_of_tree.cpp
 * Dijkstra:
   * https://www.youtube.com/watch?v=gdmfOwyQlcI
   * https://www-m9.ma.tum.de/graph-algorithms/spp-dijkstra/index_en.html
