@@ -251,6 +251,7 @@ ___________________________________________
 * Slides de Nico Lehmann sobre Grafos:
   * http://campamento2015.progcomp.cl/material (revisar la parte Grafos)
   * http://campamento2016.progcomp.cl/material (revisar la parte Grafos)  
+* Trees (Árboles): https://en.wikipedia.org/wiki/Tree_(graph_theory)
 * Play list sobre Grafos: https://www.youtube.com/playlist?list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j
 * Breadth First Search (BFS) & Depth First Search (DFS):
   * https://www.youtube.com/watch?v=ImMnYq2zP4Y
